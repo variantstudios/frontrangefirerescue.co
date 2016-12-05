@@ -1,0 +1,69 @@
+# Site settings
+title: Front Range Fire Rescue
+email: frontrangefirerescue@gmail.com
+description:
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://frontrangefirerescue.co" # the base hostname & protocol for your site
+#timezone: America/Denver
+
+# Site Author(s)
+author:
+  name: Variant Studios
+  email: team@variantstudios.com
+
+# Build settings
+highlighter: pygments
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: 1..6
+
+# Permalinks
+
+# Include Sub Pages
+include: ['_pages']
+
+# Blog Settings
+paginate: 10
+paginate_path: "/news/page:num/"
+
+# Collections
+collections:
+  events:
+    output: true
+    permalink: /events/:title/
+  gallery:
+    output: true
+    permalink: /gallery/:title/
+  community:
+    output: true
+    permalink: /community/
+defaults:
+  - scope:
+      type: "events"
+    values:
+      layout: "event"
+  - scope:
+      type: "news"
+    values:
+      layout: "post"
+
+# Reading Time Feature
+reading_time:     true
+words_per_minute: 200
+
+# Disqus Comments
+disqus_short_name:
+disqus_show_comment_count:
+
+# typekit
+typekit: elx2qol
+
+# Social Media
+facebook: "https://www.facebook.com/frontrangefirerescue"
+twitter: "https://twitter.com/FRFRAuthority"
+
+# Google Analytics
+google_analytics_tracking_id: "UA-70299313-1"
+
+exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]

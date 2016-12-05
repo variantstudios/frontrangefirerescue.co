@@ -1,0 +1,28 @@
+- text: About Us
+  url: /about-us/
+  subitems:
+    - text: Our History
+      url: /about-us/history/
+    - text: Our Staff
+      url: /about-us/staff/
+- text: Resources
+  url: /resources/
+  subitems:
+    - text: Community
+      url: /resources/community/
+    - text: Fire Prevention
+      url: /resources/fire-prevention/
+    - text: Links
+      url: /resources/links/
+    - text: Our Services
+      url: /resources/services/
+- text: News
+  url: /news/
+- text: Events
+  url: /events/
+- text: Gallery
+  url: /gallery/
+- text: Employment
+  url: /employment/
+- text: Contact
+  url: /contact/
