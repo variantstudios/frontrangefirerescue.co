@@ -7,7 +7,7 @@ permalink: /resources/community/
 
 &nbsp;**2017&nbsp;[Board Calendar](/uploads/2017 Meeting Notice for posting.pdf)**
 
-[**2016 Transparency Report for MFPD&nbsp;**](/assets/pdf/mfpd 2016 transparency notice 9.14.16.pdf)&nbsp;
+**[2017 Transparency Report for&nbsp;](/uploads/2017 FRFRA Transparency Report.pdf)FRFRA**
 
 [**2016 Transparency Report for JFPD**](/assets/pdf/jfpd 2016 transparency notice5.12.16.pdf)
 
