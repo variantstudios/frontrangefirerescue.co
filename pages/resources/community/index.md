@@ -9,7 +9,9 @@ permalink: /resources/community/
 
 **[2017 Transparency Report for&nbsp;](/uploads/2017 FRFRA Transparency Report.pdf)FRFRA**
 
-[**2016 Transparency Report for JFPD**](/assets/pdf/jfpd 2016 transparency notice5.12.16.pdf)
+[**2017 Transparency Report for JFPD**](/uploads/2017 JFPD Final Transparency Notice.pdf)
+
+[**2017 Transparency Report for MFPD**](/uploads/2017 MFPDTransparency Notice.pdf)
 
 **​** **Car Seats:** Front Range Fire Rescue Authority is dedicated to ensuring safety for all children in car seats. Please email us at info@frfr.co or call (970) 587-4464 to schedule a certified seat technician to help educate, check, and install your child seat. &nbsp;
 
