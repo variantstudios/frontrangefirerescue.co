@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Contact"
+title: Contact
 permalink: /contact/
 ---
+
 
 ## Our Number:
 
@@ -21,3 +22,5 @@ permalink: /contact/
 **Bernie Covillo**- Operations Chief [(bcovillo@frfr.co)](mailto:bcovillo@frfr.co)
 
 **Jesse Molinar**- Fire Marshal [(jmolinar@frfr.co)](mailto:jmolinar@frfr.co)
+
+[**TRANSPARENCY REPORT 2017**](/uploads/2017 FRFRA Transparency Report.pdf)
