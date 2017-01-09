@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: 2016 Training
+title: Training
 permalink: /gallery/new2015/
 images:
   - title:
