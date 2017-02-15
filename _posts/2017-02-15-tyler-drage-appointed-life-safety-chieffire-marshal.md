@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Answering the Call
-date: 2016-11-21 11:00:00
-image_path: /uploads/upload.jpg
+title: TYLER DRAGE APPOINTED LIFE SAFETY CHIEF/FIRE MARSHAL
+date: 2017-02-15 11:00:00
+image_path:
 ---
 
 
@@ -12,8 +12,8 @@ image_path: /uploads/upload.jpg
 
 * 18 years of age or older at time of testing
 * High school diploma or GED, prior to the application deadline
-* Valid State of Colorado driver’s license&nbsp;
-* Colorado State Firefighter I / HazMat Operations or expected by date of hire.&nbsp;
+* Valid State of Colorado driver’s license
+* Colorado State Firefighter I / HazMat Operations or expected by date of hire.
 * Job offers will be contingent upon obtaining certifications
 
 <div>For more information please click <strong><a target="_blank" href="/Reserve FF.pdf">here</a></strong></div>
