@@ -46,5 +46,5 @@ Thank you to all of the 3rd grade Teachers and Students that participated in our
 
 The classroom winners were:
 
-* 2016 Shared between Mrs. Johnson's class at KQA and              Mrs. Howell's class at Pioneer Ridge Elementary. The 2016 Fire Prevention Theme was open to teachers and students to use their imagination.
-* 2015 winning class was Mrs. Johnson's 3rd grade at Knowledge Quest Academy. The Fire Prevention Theme was **Hear the BEEP where you SLEEP!**   Hear the Beep Where You Sleep: Every Bedroom Needs a Working Smoke Alarm helps fire departments remind people about the importance of having working smoke alarms in their homes, including bedrooms, and testing them monthly. One of the most important fire safety measures you can take in your home is to ensure that you have working smoke alarms.
+* 2016 Shared between Mrs. Johnson's class at KQA and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mrs. Howell's class at Pioneer Ridge Elementary. The 2016 Fire Prevention Theme was open to teachers and students to use their imagination.
+* 2015 winning class was Mrs. Johnson's 3rd grade at Knowledge Quest Academy. The Fire Prevention Theme was&nbsp;**Hear the BEEP where you SLEEP!**&nbsp; &nbsp;
