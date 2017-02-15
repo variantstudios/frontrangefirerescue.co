@@ -17,3 +17,5 @@ Drage began his career in public safety in the summer of 1991. He was then certi
 Chief Drage will be recognized at the Front Range Fire Rescue Authority Board meeting on March 8, 2017.
 
 &nbsp;
+
+&nbsp;
