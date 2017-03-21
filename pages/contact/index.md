@@ -48,6 +48,6 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 **FRFRA&nbsp;[TRANSPARENCY REPORT 201](/uploads/2017 FRFRA Transparency Report.pdf)7**
 
-**JFPD TRANSPARENCY REPORT 2017**
+[**JFPD TRANSPARENCY REPORT 2017**](/uploads/2017 JFPD Final Transparency Notice.pdf)
 
 **MFPD TRANSPARENCY REPORT 2017**
