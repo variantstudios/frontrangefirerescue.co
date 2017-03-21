@@ -11,7 +11,7 @@ permalink: /contact/
 
 ## Give Us A Comment:
 
-<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="535" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt919275&amp;entsource=&amp;referrer=&amp;header=hide">&lt;a href="https://frfr.wufoo.com/forms/z6pl7to0reuswt/" title="html form"&gt;Fill out my Wufoo form!&lt;/a&gt;</iframe></div>
+<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="535" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt537692&amp;entsource=&amp;referrer=&amp;header=hide">&amp;amp;lt;a href="https://frfr.wufoo.com/forms/z6pl7to0reuswt/" title="html form"&amp;amp;gt;Fill out my Wufoo form!&amp;amp;lt;/a&amp;amp;gt;</iframe></div>
 
 <script type="text/javascript">var z6pl7to0reuswt;(function(d, t) {
 var s = d.createElement(t), options = {
@@ -48,6 +48,6 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 **FRFRA&nbsp;[TRANSPARENCY REPORT 201](/uploads/2017 FRFRA Transparency Report.pdf)7**
 
-**JFPD TRANSPARENCY REPORT 2017**
+**JFPD TRANSPARENCY REPORT 2017[/uploads/2017 JFPD Final Transparency Notice.pdf](/uploads/2017 JFPD Final Transparency Notice.pdf)**
 
 **MFPD TRANSPARENCY REPORT 2017**
