@@ -29,6 +29,6 @@ Information on the **[FRFRA Reserve Program](/FRFR Reserve Firefighter Program P
 
 Additional\*\* [Information](/uploads/Reserve FF Program Brochure.docx)\*\*
 
-###### **Dates and requirements&nbsp;[here](/uploads/Reserve FF.pdf)**
+###### &nbsp;
 
 &nbsp;
