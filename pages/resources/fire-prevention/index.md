@@ -11,7 +11,7 @@ Front Range Fire Rescue (FRFR) has adopted the International Fire Code within it
 
 ###### **Plans to be Reviewed**
 
-<div>Based on the adopted fire code, FRFR shall review construction documents, plans, etc for all of the following proposed occupancies/buildings:</div>
+<div>Based on the adopted fire code, FRFR shall review construction documents, plans, etc for all of the following proposed occupancies/buildings,including tenant finishes and remodels, in any of these property types:</div>
 
 <div>&nbsp; &nbsp; Assembly occupancies (A1 through A5)</div>
 
