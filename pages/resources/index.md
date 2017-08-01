@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 
-* [Community](/resources/community)
+* [Community](/resources/community)&nbsp;Risk Reduction
 * [Fire Prevention](/resources/fire-prevention)
 * [Links](/resources/links)
 * [Services](/resources/services)![](/uploads/versions/office pic---x----6000-4800x---.jpg)
