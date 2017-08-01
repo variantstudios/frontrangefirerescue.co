@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Community
+title: Community Risk Reduction
 permalink: /resources/community/
 ---
 
