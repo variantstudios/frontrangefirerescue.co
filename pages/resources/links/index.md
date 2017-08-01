@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Links
+title: Services/Links
 permalink: /resources/links/
 ---
+
 
 * **[Town of Johnstown](http://www.townofjohnstown.com)**
 * **[Johnstown Police](http://www.johnstownpolice.org)**
