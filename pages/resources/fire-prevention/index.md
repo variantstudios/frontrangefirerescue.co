@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Construction Services
-permalink: /resources/fire-prevention/Construction-Services/
+permalink: /resources/fire-prevention/
 ---
 
 
