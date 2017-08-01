@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Fire Prevention"
+title: Construction Services
 permalink: /resources/fire-prevention/
 ---
+
 
 Coming soon
