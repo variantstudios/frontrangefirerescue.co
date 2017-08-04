@@ -5,8 +5,8 @@
       url: /about-us/history/
     - text: Our Staff
       url: /about-us/staff/
-- text: Resources
-  url: /resources/
+- text: Life Safety
+  url: /life-safety/
   subitems:
     - text: Community
       url: /resources/community/
