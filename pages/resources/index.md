@@ -1,11 +1,11 @@
 ---
 layout: page
 title: LIFE SAFETY DIVISION
-permalink: /resources/
+permalink: /life-safety/
 ---
 
 
-* [Community](/resources/community)[ Risk Reduction](/resources/community/)
+* [Community](/resources/community)[&nbsp;Risk Reduction](/resources/community/)
 * [Construction Services](/resources/fire-prevention/)
 * [Links](/resources/links)/Services
 
@@ -49,7 +49,7 @@ Please visit the Development Services section of this website to view and downlo
 
 ###### **Information for Businesses**
 
-The agency provides a variety of safety assessments and inspections to help our business owners and operators better understand life safety circumstances that can reduce the risk within buildings. For more information about these services, please visit the  Business Safety section of this website.
+The agency provides a variety of safety assessments and inspections to help our business owners and operators better understand life safety circumstances that can reduce the risk within buildings. For more information about these services, please visit the &nbsp;Business Safety section of this website.
 
 Information is also available in the Emergency Management section of this website to assist businesses with planning and preparation to better withstand disasters.
 
