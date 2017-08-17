@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Transparency Reports
-permalink: /contact/
+title: FRFRA Board Information
+permalink: /board-information//
 ---
 
 
-## &nbsp;
+##
 
-[](/uploads/2017 FRFRA Transparency Report.pdf)[**FRFRA&nbsp;**](__notset__)**[TRANSPARENCY REPORT 201](/uploads/2017 FRFRA Transparency Report.pdf)**[](**notset**)[**7**](__notset__)
+[](/uploads/2017 FRFRA Transparency Report.pdf)[**FRFRA**](__notset__)**[TRANSPARENCY REPORT 201](/uploads/2017 FRFRA Transparency Report.pdf)**[](**notset**)[**7**](__notset__)
 
 [**JFPD TRANSPARENCY REPORT 2017**](/uploads/2017 JFPD Final Transparency Notice.pdf)
 
 [**MFPD TRANSPARENCY REPORT 2017**](/uploads/2017 MFPDTransparency Notice.pdf)
 
-#### Phone&nbsp;**970-587-4464**
+#### Phone **970-587-4464**
 
 ## Questions or Comments:
 
@@ -46,8 +46,8 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 ## Our Chiefs:
 
-**Ron Bateman&nbsp;**Fire Chief [(rbateman@frfr.co)](mailto:rbateman@frfr.co)
+**Ron Bateman**Fire Chief [(rbateman@frfr.co)](&#109;&#097;&#105;&#108;&#116;&#111;:&#114;&#098;&#097;&#116;&#101;&#109;&#097;&#110;&#064;&#102;&#114;&#102;&#114;&#046;&#099;&#111;)
 
-**Bernie Covillo&nbsp;**Operations Chief [(bcovillo@frfr.co)](mailto:bcovillo@frfr.co)
+**Bernie Covillo**Operations Chief [(bcovillo@frfr.co)](&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#099;&#111;&#118;&#105;&#108;&#108;&#111;&#064;&#102;&#114;&#102;&#114;&#046;&#099;&#111;)
 
-**Ty Drage &nbsp;**Life Safety Chief/Fire Marshal [(tdrage@frfr.co)](javascript:void(location.href='mailto:'+String.fromCharCode(116,100,114,97,103,101,64,102,114,102,114,46,99,111)))
+**Ty Drage**Life Safety Chief/Fire Marshal [(tdrage@frfr.co)](javascript:void(location.href='mailto:'+String.fromCharCode(116,100,114,97,103,101,64,102,114,102,114,46,99,111)))
