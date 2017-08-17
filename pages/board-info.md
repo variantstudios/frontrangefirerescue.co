@@ -11,7 +11,7 @@ permalink: /board-information//
 
 [**MFPD TRANSPARENCY REPORT 2017**](/uploads/2017 MFPDTransparency Notice.pdf)
 
-#### Phone&nbsp;**970-587-4464**
+#### &nbsp;
 
 ## Questions or Comments:
 
