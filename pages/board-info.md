@@ -5,19 +5,17 @@ permalink: /board-information//
 ---
 
 
-##
-
-[](/uploads/2017 FRFRA Transparency Report.pdf)[**FRFRA**](__notset__)**[TRANSPARENCY REPORT 201](/uploads/2017 FRFRA Transparency Report.pdf)**[](**notset**)[**7**](__notset__)
+[**FRFRA**](__notset__)**[TRANSPARENCY REPORT 201](/uploads/2017 FRFRA Transparency Report.pdf)**[**7**](__notset__)
 
 [**JFPD TRANSPARENCY REPORT 2017**](/uploads/2017 JFPD Final Transparency Notice.pdf)
 
 [**MFPD TRANSPARENCY REPORT 2017**](/uploads/2017 MFPDTransparency Notice.pdf)
 
-#### Phone **970-587-4464**
+#### Phone&nbsp;**970-587-4464**
 
 ## Questions or Comments:
 
-<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="535" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt876478&amp;entsource=&amp;referrer=&amp;header=hide">&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href="https://frfr.wufoo.com/forms/z6pl7to0reuswt/" title="html form"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Fill out my Wufoo form!&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</iframe></div>
+<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="535" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt876478&amp;entsource=&amp;referrer=&amp;header=hide">&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href="https://frfr.wufoo.com/forms/z6pl7to0reuswt/" title="html form"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Fill out my Wufoo form!&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</iframe></div>
 
 <script type="text/javascript">var z6pl7to0reuswt;(function(d, t) {
 var s = d.createElement(t), options = {
@@ -46,8 +44,8 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 ## Our Chiefs:
 
-**Ron Bateman**Fire Chief [(rbateman@frfr.co)](&#109;&#097;&#105;&#108;&#116;&#111;:&#114;&#098;&#097;&#116;&#101;&#109;&#097;&#110;&#064;&#102;&#114;&#102;&#114;&#046;&#099;&#111;)
+**Ron Bateman**Fire Chief [(rbateman@frfr.co)](mailto:rbateman@frfr.co)
 
-**Bernie Covillo**Operations Chief [(bcovillo@frfr.co)](&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#099;&#111;&#118;&#105;&#108;&#108;&#111;&#064;&#102;&#114;&#102;&#114;&#046;&#099;&#111;)
+**Bernie Covillo**Operations Chief [(bcovillo@frfr.co)](mailto:bcovillo@frfr.co)
 
 **Ty Drage**Life Safety Chief/Fire Marshal [(tdrage@frfr.co)](javascript:void(location.href='mailto:'+String.fromCharCode(116,100,114,97,103,101,64,102,114,102,114,46,99,111)))
