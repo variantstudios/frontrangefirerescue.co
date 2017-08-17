@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: FRFRA Board Information
 permalink: /board-information//
 ---
@@ -11,7 +11,7 @@ permalink: /board-information//
 
 [**MFPD TRANSPARENCY REPORT 2017**](/uploads/2017 MFPDTransparency Notice.pdf)
 
-#### &nbsp;
+####
 
 ## Questions or Comments:
 
@@ -44,8 +44,8 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 ## Our Chiefs:
 
-**Ron Bateman**Fire Chief [(rbateman@frfr.co)](mailto:rbateman@frfr.co)
+**Ron Bateman**Fire Chief [(rbateman@frfr.co)](&#109;&#097;&#105;&#108;&#116;&#111;:&#114;&#098;&#097;&#116;&#101;&#109;&#097;&#110;&#064;&#102;&#114;&#102;&#114;&#046;&#099;&#111;)
 
-**Bernie Covillo**Operations Chief [(bcovillo@frfr.co)](mailto:bcovillo@frfr.co)
+**Bernie Covillo**Operations Chief [(bcovillo@frfr.co)](&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#099;&#111;&#118;&#105;&#108;&#108;&#111;&#064;&#102;&#114;&#102;&#114;&#046;&#099;&#111;)
 
 **Ty Drage**Life Safety Chief/Fire Marshal [(tdrage@frfr.co)](javascript:void(location.href='mailto:'+String.fromCharCode(116,100,114,97,103,101,64,102,114,102,114,46,99,111)))
