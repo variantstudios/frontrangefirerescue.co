@@ -12,10 +12,10 @@
       url: /resources/community/
     - text: Construction Services
       url: /resources/construction-services/
+    - text: Services
+      url: /resources/services/
     - text: Links
       url: /resources/links/
-    - text: Our Services
-      url: /resources/services/
 - text: News
   url: /news/
 - text: Events
