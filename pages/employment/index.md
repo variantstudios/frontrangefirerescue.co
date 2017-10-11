@@ -7,16 +7,6 @@ permalink: /employment/
 
 <div>Front Range Fire Rescue Authority (FRFRA) is a combination department composed of both career and Reserve firefighters. Our Reserves account for the majority of our department and we would love to have you join us. Volunteering is a great way to give back to your community and learn valuable skills along the way. As a Reserve, the department will provide you with Firefighter I, EMT-B, Hazardous Material Operations, and many other certifications. FRFRA currently holds two processes for Reserves annually.</div>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ![](/uploads/versions/pic-only---x----1200-1650x---.jpg)
 
 We are currently hiring for Reserve Firefighter positions.&nbsp; Individuals who currently hold state of Colorado certifications are encouraged to apply Applications are available in person at Front Range Fire Rescue Station 2 (101 S. Irene Ave, Milliken, CO 80543). &nbsp;Access the application **[here](/assets/pdf/frfr application.pdf)**
