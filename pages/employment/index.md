@@ -19,7 +19,7 @@ permalink: /employment/
 
 ![](/uploads/versions/pic-only---x----1200-1650x---.jpg)
 
-We are currently hiring for Reserve Firefighter positions.&nbsp; Individuals who currently hold state of Colorado certifications and those who do not hold any certifications are encouraged to apply Applications are available in person at Front Range Fire Rescue Station 2 (101 S. Irene Ave, Milliken, CO 80543). &nbsp;Access the application **[here](/assets/pdf/frfr application.pdf)**
+We are currently hiring for Reserve Firefighter positions.&nbsp; Individuals who currently hold state of Colorado certifications are encouraged to apply Applications are available in person at Front Range Fire Rescue Station 2 (101 S. Irene Ave, Milliken, CO 80543). &nbsp;Access the application **[here](/assets/pdf/frfr application.pdf)**
 
 Applications are to be submitted in person to Station 2 or via email to info@frfr.co&nbsp;
 
