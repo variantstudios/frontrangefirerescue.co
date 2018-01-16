@@ -5,9 +5,9 @@ permalink: /board-information//
 ---
 
 
-**FRFR&nbsp;****[TRANSPARENCY REPORT 201](/uploads/2017 FRFRA Transparency Report.pdf)****8**
+[**FRFR&nbsp;****TRANSPARENCY REPORT 201****8**](/uploads/2018 Transparency Notice.pdf)
 
-2018 BOARD MEETING SCHEDULE
+[2018 BOARD MEETING SCHEDULE](/uploads/2018 Meeting Notice.pdf)
 
 **FRFR Board of Directors**
 
