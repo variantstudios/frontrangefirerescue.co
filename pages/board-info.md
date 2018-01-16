@@ -5,39 +5,25 @@ permalink: /board-information//
 ---
 
 
-[**FRFRA&nbsp;**](__notset__)**[TRANSPARENCY REPORT 201](/uploads/2017 FRFRA Transparency Report.pdf)**[**7**](__notset__)
+**FRFR&nbsp;****[TRANSPARENCY REPORT 201](/uploads/2017 FRFRA Transparency Report.pdf)****8**
 
-[**JFPD TRANSPARENCY REPORT 2017**](/uploads/2017 JFPD Final Transparency Notice.pdf)
+2018 BOARD MEETING SCHEDULE
 
-[**MFPD TRANSPARENCY REPORT 2017**](/uploads/2017 MFPDTransparency Notice.pdf)
+**FRFR Board of Directors**
 
-[2017 BOARD MEETING SCHEDULE](/uploads/2017 Meeting Notice for posting.revised.pdf)
+Darrin Rutt, President
 
-FRFRA Board of Directors
+Blair Howe, Vice President
 
-Blair Howe, Co-President
+Jim Young,&nbsp; Secretary
 
-Darrin Rutt, Co-President
-
-Larry Weber, Co-Vice President
-
-J.J. Long, Co-Vice President
-
-Sam Schleiger, Co-Secretary
-
-Jim Young, Co-Secretary
-
-Buddy Prather, Co-Treasurer
-
-Steve Werness, Co-Treasurer
+Reid Hobler, Treasurer
 
 Greg Freehling
 
-Reid Hobbler
-
 ## Questions or Comments:
 
-<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="535" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt876478&amp;entsource=&amp;referrer=&amp;header=hide">&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href="https://frfr.wufoo.com/forms/z6pl7to0reuswt/" title="html form"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Fill out my Wufoo form!&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</iframe></div>
+<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="426" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt91868&amp;entsource=&amp;referrer=&amp;header=hide">&lt;a href="https://frfr.wufoo.com/forms/z6pl7to0reuswt/" title="html form"&gt;Fill out my Wufoo form!&lt;/a&gt;</iframe></div>
 
 <script type="text/javascript">var z6pl7to0reuswt;(function(d, t) {
 var s = d.createElement(t), options = {
