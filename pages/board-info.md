@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FRFRA Board Information
+title: FRFR Board Information
 permalink: /board-information//
 ---
 
