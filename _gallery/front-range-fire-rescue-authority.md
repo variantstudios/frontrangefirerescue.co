@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Front Range Fire Rescue Authority
+title: Front Range Fire Rescue
 permalink: /gallery/frfra-newpictures/
 images:
   - title: Station 1
