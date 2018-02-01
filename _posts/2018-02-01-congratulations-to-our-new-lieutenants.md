@@ -12,14 +12,14 @@ In an unprecedented ceremony on Wednesday, January 10th at the Board meeting, fo
 Congratulations to the following new Lieutenants!
 {: .MsoNoSpacing}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lieutenant Cody Hinkle, hired 2009
+          Lieutenant Cody Hinkle, hired 2009
 {: .MsoNoSpacing}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lieutenant Kate Jennings, hired&nbsp;2010
+          Lieutenant Kate Jennings, hired 2010
 {: .MsoNoSpacing}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lieutenant Zack Kirchner, hired&nbsp;2009
+          Lieutenant Zack Kirchner, hired 2009
 {: .MsoNoSpacing}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lieutenant Dustin West, hired&nbsp;2009
+          Lieutenant Dustin West, hired 2009
 {: .MsoNoSpacing}
