@@ -5,15 +5,7 @@ permalink: /resources/community/
 ---
 
 
-&nbsp;**2017&nbsp;[Board Calendar](/uploads/2017 Meeting Notice for posting.pdf)**
-
-**[2017 Transparency Report for&nbsp;](/uploads/2017 FRFRA Transparency Report.pdf)FRFRA**
-
-[**2017 Transparency Report for JFPD**](/uploads/2017 JFPD Final Transparency Notice.pdf)
-
-[**2017 Transparency Report for MFPD**](/uploads/2017 MFPDTransparency Notice.pdf)
-
-**​** **Car Seats:** Front Range Fire Rescue Authority is dedicated to ensuring safety for all children in car seats. Please email us at info@frfr.co or call (970) 587-4464 to schedule a certified seat technician to help educate, check, and install your child seat. &nbsp;
+**​** **Car Seats:** Front Range Fire Rescue Authority is dedicated to ensuring safety for all children in car seats. Please email us at info@frfr.co or call (970) 587-4464 to schedule a certified seat technician to help educate, check, and install your child seat.&nbsp; Click here for a brochure on [Colorado Car Seat Laws.](/child seat belt trifold.pdf)
 
 **Ride-Along:** Interested in what the fire service is all about? Please schedule a ride-along with us to get an in depth view of everything we do. On your ride-along, you will be able to respond to incidents, train, eat meals, and learn about the firefighters serving your community. Please email us at info@frfr.co or call (970) 587-4464 to schedule a ride along.
 
