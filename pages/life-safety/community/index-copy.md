@@ -16,3 +16,5 @@ permalink: /resources/community/
 **Personal Safety:** Contact the administration office for more information by email at info@frfr.co or call (970) 587-4464 for more info.
 
 **Child Education and Activities:**&nbsp;Learn about fire safety with Sparky at http://www.sparky.org/. Contact the administration office for more information by email info@frfr.co or phone (970) 587-4464.
+
+**&nbsp;Home Safety Surveys:&nbsp;[http://www.knowledgeinitiative.org/risk-checker](http://www.knowledgeinitiative.org/risk-checker)**
