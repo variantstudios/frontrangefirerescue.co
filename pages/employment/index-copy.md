@@ -63,8 +63,8 @@ permalink: /employment/
 
 <div>&nbsp;</div>
 
-<div>Our Training Captain, Nat Kronholm oversees the Reserve program. He can be reached at 970-587-4464 ext 103 or nkronholm@frfr.co if you have any additional questions.</div>
+<div>Our Training Captain, Nat Kronholm oversees the Reserve program. He can be reached at 970-587-4464 ext 103 or<strong> <a href="javascript:void(location.href='mailto:'+String.fromCharCode(110,107,114,111,110,104,111,108,109,64,102,114,102,114,46,99,111))">nkronholm@frfr.co</a></strong> if you have any additional questions.</div>
 
 <div>&nbsp;</div>
 
-Applications are to be submitted in person to Station 2 at 101 S Irene Ave, Milliken CO or via email to nkronholm@frfr.co.
+Applications are to be submitted in person to Station 2 at 101 S Irene Ave, Milliken CO or via email to **[nkronholm@frfr.co](javascript:void(location.href='mailto:'+String.fromCharCode(110,107,114,111,110,104,111,108,109,64,102,114,102,114,46,99,111)))**.
