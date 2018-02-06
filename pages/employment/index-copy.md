@@ -5,7 +5,7 @@ permalink: /employment/
 ---
 
 
-<div><img alt="" src="/uploads/versions/dsc01152-1---x----6000-4000x---.jpg" width="6000" height="4000" /></div>
+<div><img alt="" width="6000" height="4000" src="/uploads/versions/dsc01152-1---x----6000-4000x---.jpg" /></div>
 
 <div>Front Range Fire Rescue is a combination department composed of both career and Reserve firefighters. Our Reserves account for the majority of our department and we would love to have you join us.&nbsp;</div>
 
@@ -15,9 +15,9 @@ Applications are to be submitted in person to Station 2 or via email to info@frf
 
 For additional information please contact us via email: info@frfr.co
 
-Information on the **[FRFRA Reserve Program](/FRFR Reserve Firefighter Program PPT (2).pdf)**
+Information on the **FRFRA Reserve Program**
 
-Additional\*\* [Information](/uploads/Reserve FF Program Brochure.docx)\*\*
+Additional\*\* Information\*\*
 
 ###### &nbsp;
 
