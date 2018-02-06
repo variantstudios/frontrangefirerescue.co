@@ -5,15 +5,69 @@ permalink: /employment/
 ---
 
 
+<div>Do you want to join a growing, progressive organization dedicated to delivering exceptional service?</div>
+
 <div><img alt="" width="6000" height="4000" src="/uploads/versions/dsc01152-1---x----6000-4000x---.jpg" /></div>
 
-<div>Front Range Fire Rescue is a combination department composed of both career and Reserve firefighters. Our Reserves account for the majority of our department and we would love to have you join us.&nbsp;</div>
+<div>Front Range Fire Rescue is looking for RESERVE FIREFIGHTERS. With an ever-expanding demand for emergency services, we depend on Reserve Firefighters to supplement our career staffing. FRFR is accepting applications from individuals with State of Colorado (or IFSAC/ProBoard) Firefighter 1 and Hazardous Materials - Operations level certification. We require Reserve members to work at least 36 hours and attend 1 operational training per month. Reserves are able to work additional hours and attend training beyond these minimum requirements.</div>
 
-We are currently hiring for Reserve Firefighter positions.&nbsp; Individuals who currently hold state of Colorado certifications are encouraged to apply Applications are available in person at Front Range Fire Rescue Station 2 (101 S. Irene Ave, Milliken, CO 80543). &nbsp;Access the application **[here](/assets/pdf/frfr application.pdf)**
+<div>&nbsp;</div>
+
+<div><strong></strong><strong>Application Process</strong></div>
+
+<div>-Complete an application <strong><a href="/assets/pdf/frfr application.pdf">here</a>&nbsp;</strong>and return it per instructions at the bottom of this page.</div>
+
+<div>-Possess valid Firefighter 1 and Hazardous Materials - Operations certificates</div>
+
+<div>-Complete NTN FireTeam test and submit your results to Front Range Fire Rescue</div>
+
+<div>-Ride along evaluation</div>
+
+<div>-Panel interview</div>
+
+<div>-Chief's interview</div>
+
+<div>-Health screening and background check</div>
+
+<div>&nbsp;</div>
+
+<div><strong>Non-Colorado certified IFSAC/ProBoard candidates</strong></div>
+
+<div><strong></strong>FRFR accepts applications from candidates who possess valid IFSAC or ProBoard certificates from other states or the federal government.</div>
+
+<div>&nbsp;</div>
+
+<div>The State of Colorado has an official process for becoming state certified that we can help you navigate through. The candidate may be offered a conditional position contingent upon the ability to obtain valid Colorado certification. Please contact us for more information. You can visit the Colorado Division of Fire Prevention and Control site <strong><a href="https://www.colorado.gov/pacific/dfpc/renewal-reinstatement-reciprocity">here</a></strong>.</div>
+
+<div>&nbsp;</div>
+
+<div><strong>Benefits</strong></div>
+
+<div>FRFR currently hires full time firefighters from our pool of qualified Reserves. From January 2017 to January 2018, FRFR hired 7 Reserves into full time positions.</div>
+
+<div>&nbsp;</div>
+
+<div>FRFR provides continued training, development, and certification opportunities to our Reserve members. These include vehicle extrication, low angle rope recovery, ice rescue, State of Colorado certification as Firefighter II, Fire Officer, Driver/Operator, and Instructor, as well as others.</div>
+
+<div>&nbsp;</div>
+
+<div>FRFR also partners with <strong><a href="https://www.uchealth.org/services/emergency-care/northern-colorado-emergency-medical-services/">University of Colorado Health EMS</a></strong> to provide in-house continuing education to maintain EMT certification.</div>
+
+<div>&nbsp;</div>
+
+<div>By meeting monthly requirements, Reserve members earn a monthly stipend up to $350 and earn a meal stipend for every shift they work.</div>
+
+<div>&nbsp;</div>
+
+<div>Reserve members have the opportunity to attend outside training with our various partners in northern Colorado.</div>
+
+<div>&nbsp;</div>
+
+<div>Our Training Captain, Nat Kronholm oversees the Reserve program. He can be reached at 970-587-4464 ext 103 or nkronholm@frfr.co if you have any additional questions.</div>
+
+<div>&nbsp;</div>
 
 Applications are to be submitted in person to Station 2 or via email to nkronholm@frfr.co&nbsp;
-
-For additional information please contact us via email: nkronholm@frfr.co
 
 ###### &nbsp;
 
