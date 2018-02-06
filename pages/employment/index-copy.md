@@ -67,8 +67,4 @@ permalink: /employment/
 
 <div>&nbsp;</div>
 
-Applications are to be submitted in person to Station 2 or via email to nkronholm@frfr.co&nbsp;
-
-###### &nbsp;
-
-&nbsp;
+Applications are to be submitted in person to Station 2 at 101 S Irene Ave, Milliken CO or via email to nkronholm@frfr.co.
