@@ -25,7 +25,7 @@ permalink: /employment/
 
 -Panel interview
 
--Chief's interview
+-Chief’s interview
 
 -Health screening and background check
 
@@ -67,7 +67,7 @@ permalink: /employment/
 
 <div>&nbsp;</div>
 
-## **APPLICATION**
+## [**APPLICATION**](/Reserve FF.pdf)
 
 <div>&nbsp;</div>
 
