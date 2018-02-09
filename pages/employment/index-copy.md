@@ -15,19 +15,19 @@ permalink: /employment/
 
 <div><strong></strong><strong>Application Process</strong></div>
 
-<div>-Complete an application <strong><a href="/assets/pdf/frfr application.pdf">here</a>&nbsp;</strong>and return it per instructions at the bottom of this page.</div>
-
 <div>-Possess valid Firefighter 1 and Hazardous Materials - Operations certificates</div>
 
-<div>-Complete NTN FireTeam test and submit your results to Front Range Fire Rescue</div>
+-Complete NTN FireTeam test and submit your results to Front Range Fire Rescue
 
-<div>-Ride along evaluation</div>
+-Complete an application&nbsp;**[here](/assets/pdf/frfr application.pdf)&nbsp;**and return it per instructions at the bottom of this page
 
-<div>-Panel interview</div>
+-Ride along evaluation
 
-<div>-Chief's interview</div>
+-Panel interview
 
-<div>-Health screening and background check</div>
+-Chief's interview
+
+-Health screening and background check
 
 <div>&nbsp;</div>
 
@@ -37,7 +37,7 @@ permalink: /employment/
 
 <div>&nbsp;</div>
 
-<div>The State of Colorado has an official process for becoming state certified that we can help you navigate through. The candidate may be offered a conditional position contingent upon the ability to obtain valid Colorado certification. Please contact us for more information. You can visit the Colorado Division of Fire Prevention and Control site <strong><a href="https://www.colorado.gov/pacific/dfpc/renewal-reinstatement-reciprocity">here</a></strong>.</div>
+<div>The State of Colorado has an official process for becoming state certified that we can help you navigate through. The candidate may be offered a conditional position contingent upon the ability to obtain valid Colorado certification and drivers license. Please contact us for more information. You can visit the Colorado Division of Fire Prevention and Control site <strong><a href="https://www.colorado.gov/pacific/dfpc/renewal-reinstatement-reciprocity">here</a></strong>.</div>
 
 <div>&nbsp;</div>
 
@@ -64,6 +64,10 @@ permalink: /employment/
 <div>&nbsp;</div>
 
 <div>Our Training Captain, Nat Kronholm oversees the Reserve program. He can be reached at 970-587-4464 ext 103 or<strong> <a href="javascript:void(location.href='mailto:'+String.fromCharCode(110,107,114,111,110,104,111,108,109,64,102,114,102,114,46,99,111))">nkronholm@frfr.co</a></strong> if you have any additional questions.</div>
+
+<div>&nbsp;</div>
+
+## **APPLICATION**
 
 <div>&nbsp;</div>
 
