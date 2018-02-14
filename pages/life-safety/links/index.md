@@ -4,7 +4,6 @@ title: Services/Links
 permalink: /resources/links/
 ---
 
-
 * **[Town of Johnstown](http://www.townofjohnstown.com)**
 * **[Johnstown Police](http://www.johnstownpolice.org)**
 * **[Town of Milliken](http://www.millikenco.gov/)**
@@ -17,6 +16,7 @@ permalink: /resources/links/
 * **[Car Seats Colorado](https://www.codot.gov/safety/seatbelts-carseats/carseats)**
 * **[Colorado Division of Fire Safety](http://dfs.state.co.us/)**
 * **[Firewise](http://www.firewise.org/)**
+* A&nbsp;[crash map](www.knowledgeinitiative.org/interactive-crash-map)&nbsp;for Colorado residents and travelers to pinpoint areas where accidents risks are proven to be statistically higher.
 * **[International Association of Fire Chiefs](http://www.ichiefs.org/)**
 * **[National Fire Protection Association](http://www.nfpa.org/)**
 * **[National Fire Sprinkler Association, Inc.](http://www.nfsa.org/)**
