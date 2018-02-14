@@ -11,7 +11,7 @@ Friday, May 4th!
 
 BONFILS will be at Station 1 in Johnstown on
 
-May 4th from 9:00am-1:30pm
+May 4th from 9:00 am-1:30 pm
 
 &nbsp;
 
