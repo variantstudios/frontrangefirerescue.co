@@ -4,123 +4,70 @@ title: Employment
 permalink: /employment/
 ---
 
-<div>Do you want to join a growing, progressive organization dedicated to delivering exceptional service?</div>
+#### **Front Range Fire Rescue is looking for RESERVE FIREFIGHTERS!**
+
+With an ever-expanding demand for emergency services, we depend on our Reserve Firefighters to supplement our career staffing.
+
+#### FRONT RANGE FIRE RESCUE’S CURRENT REQUIREMENTS TO APPLY&nbsp; INCLUDE THE FOLLOWING:
+
+* Be at least 18 years of age{: .m8956877859916710715m-6500360594811992141gmail-}
+* Must have a High School Diploma/GED equivalent{: .m8956877859916710715m-6500360594811992141gmail-}
+* Must maintain and have in good standing a valid driver's license{: .m8956877859916710715m-6500360594811992141gmail-}
+* All applicants are required to have a State of Colorado (or IFSAC/ProBoard) Firefighter 1 and Hazardous Materials - Operations level certificationat the time of their panel interview
+
+<div><strong></strong>
+					<p style="margin:0in 0in 8pt"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri&quot;,sans-serif">APPLICATION PROCESS</span></strong>
+						</span>
+						</span>
+						</span>
+					</p>
+					<ul>
+						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Possess valid Firefighter 1 and Hazardous Materials - Operations certificates</span></span>
+							</span>
+						</li>
+						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete NTN FireTeam test and submit your results to Front Range Fire Rescue</span></span>
+							</span>
+						</li>
+						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete an application&nbsp;<strong><span style="font-family:&quot;Calibri&quot;,sans-serif"><a style="color:blue; text-decoration:underline" href="/uploads/FRFR application 2018 Fillin.pdf">here</a>&nbsp;</span></strong>and return it per instructions at the bottom of this page</span>
+							</span>
+							</span>
+						</li>
+						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ride along evaluation</span></span>
+							</span>
+						</li>
+						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Panel interview</span></span>
+							</span>
+						</li>
+						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Chief&rsquo;s interview</span></span>
+							</span>
+						</li>
+						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Health screening and background check, after all above items are complete</span></span>
+							</span>
+						</li>
+					</ul>
+				</div>
 
 <div>&nbsp;</div>
 
-<div>Front Range Fire Rescue is looking for RESERVE FIREFIGHTERS. With an</div>
+**Non-Colorado certified IFSAC/ProBoard candidates**:
 
-<div>ever-expanding demand for emergency services, we depend on Reserve Firefighters to supplement our career staffing. FRFR is accepting applications from individuals with State of Colorado (or IFSAC/ProBoard) Firefighter 1 and Hazardous Materials - Operations level certification. We require Reserve members to work at least 36 hours and attend 1 operational training per month. Reserves are able to work additional hours and attend training beyond these minimum requirements.</div>
+FRFR accepts applications from candidates who possess valid IFSAC or ProBoard certificates from other states or the federal government. The State of Colorado has an official process for becoming state certified that we can help you navigate through. The candidate may be offered a conditional position contingent upon the ability to obtain valid Colorado certification and drivers license. Please contact us for more information. You can visit the Colorado Division of Fire Prevention and Control site [here](https://www.colorado.gov/pacific/dfpc/renewal-reinstatement-reciprocity).
+
+<div>&nbsp;</div>
+
+<div><strong>Benefits</strong></div>
+
+FRFR currently hires full time firefighters from our pool of qualified Reserves. From January 2017 to January 2018, FRFR hired 7 Reserves into full time positions.
 
 <div>
-					<p style="margin:0in 0in 8pt; text-align:start; -webkit-text-stroke-width:0px"><span style="font-size:11pt"><span style="color:#222222"><span style="font-style:normal"><span style="font-variant-ligatures:normal"><span style="font-variant-caps:normal"><span style="font-weight:400"><span style="letter-spacing:normal"><span style="orphans:2"><span style="text-transform:none"><span style="white-space:normal"><span style="widows:2"><span style="word-spacing:0px"><span style="background-color:#ffffff"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial"><span style="line-height:15.6933px"><span style="font-family:Calibri, sans-serif"><b><u>Front Range Fire Rescue&rsquo;s current requirements include the following:</u></b></span></span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-					</p>
-					<p class="m_-4097973488650246765gmail-" style="text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt 0.5in"><span style="font-size:11pt"><span style="color:#222222"><span style="font-style:normal"><span style="font-variant-ligatures:normal"><span style="font-variant-caps:normal"><span style="font-weight:400"><span style="letter-spacing:normal"><span style="orphans:2"><span style="text-transform:none"><span style="white-space:normal"><span style="widows:2"><span style="word-spacing:0px"><span style="background-color:#ffffff"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial"><span style="line-height:15.6933px"><span style="font-family:Calibri, sans-serif"><span style="font-family:Symbol">&middot;</span>Be at least 18 years of age.</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-					</p>
-					<p class="m_-4097973488650246765gmail-" style="text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt 0.5in"><span style="font-size:11pt"><span style="color:#222222"><span style="font-style:normal"><span style="font-variant-ligatures:normal"><span style="font-variant-caps:normal"><span style="font-weight:400"><span style="letter-spacing:normal"><span style="orphans:2"><span style="text-transform:none"><span style="white-space:normal"><span style="widows:2"><span style="word-spacing:0px"><span style="background-color:#ffffff"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial"><span style="line-height:15.6933px"><span style="font-family:Calibri, sans-serif"><span style="font-family:Symbol">&middot;</span>Must have a High School Diploma/GED equivalent.</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-					</p>
-					<p class="m_-4097973488650246765gmail-" style="text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt 0.5in"><span style="font-size:11pt"><span style="color:#222222"><span style="font-style:normal"><span style="font-variant-ligatures:normal"><span style="font-variant-caps:normal"><span style="font-weight:400"><span style="letter-spacing:normal"><span style="orphans:2"><span style="text-transform:none"><span style="white-space:normal"><span style="widows:2"><span style="word-spacing:0px"><span style="background-color:#ffffff"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial"><span style="line-height:15.6933px"><span style="font-family:Calibri, sans-serif"><span style="font-family:Symbol">&middot;</span>Must maintain and have in good standing a valid driver's license.</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
-						</span>
+					<p style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">We require Reserve members to work at least 36 hours and attend 1 operational training per month. Reserves are able to work additional hours and attend training beyond these minimum requirements.</span></span>
 						</span>
 						</span>
 						</span>
 					</p>
 				</div>
 
-<div><strong></strong><strong>Application Process</strong></div>
-
-<div>-Possess valid Firefighter 1 and Hazardous Materials - Operations certificates</div>
-
-<div>&nbsp;</div>
-
--Complete NTN FireTeam test and submit your results to Front Range Fire Rescue
-
--Complete an application&nbsp;**[here](/uploads/FRFR application 2018 Fillin.pdf)&nbsp;**and return it per instructions at the bottom of this page
-
--Ride along evaluation
-
--Panel interview
-
--Chief’s interview
-
--Health screening and background check
-
-<div>&nbsp;</div>
-
-<div><strong>Non-Colorado certified IFSAC/ProBoard candidates</strong></div>
-
-<div><strong></strong>FRFR accepts applications from candidates who possess valid IFSAC or ProBoard certificates from other states or the federal government.</div>
-
-<div>The State of Colorado has an official process for becoming state certified that we can help you navigate through. The candidate may be offered a conditional position contingent upon the ability to obtain valid Colorado certification and drivers license. Please contact us for more information. You can visit the Colorado Division of Fire Prevention and Control site <strong><a href="https://www.colorado.gov/pacific/dfpc/renewal-reinstatement-reciprocity">here</a></strong>.</div>
-
-<div>&nbsp;</div>
-
-<div><strong>Benefits</strong></div>
-
-<div>FRFR currently hires full time firefighters from our pool of qualified Reserves. From January 2017 to January 2018, FRFR hired 7 Reserves into full time positions.</div>
-
-<div>&nbsp;</div>
-
-<div>FRFR provides continued training, development, and certification opportunities to our Reserve members. These include vehicle extrication, low angle rope recovery, ice rescue, State of Colorado certification as Firefighter II, Fire Officer, Driver/Operator, and Instructor, as well as others.</div>
+FRFR provides continued training, development, and certification opportunities to our Reserve members. These include vehicle extrication, low angle rope recovery, ice rescue, State of Colorado certification as Firefighter II, Fire Officer, Driver/Operator, and Instructor, as well as others.
 
 <div>&nbsp;</div>
 
