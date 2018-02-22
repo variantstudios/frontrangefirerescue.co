@@ -1,14 +1,24 @@
 ---
-title: FRFR Pancake Breakfast
-description: "Every year on the second Saturday of August, to celebrate the Milliken Beef ‘n Bean Day the firefighters of the Front Range Fire Rescue Authority host a pancake breakfast for the community. \nAugust 12, 2017 firefighters will start pancake preparations around 4 a.m., preparing the batter in a gargantuan caldron looking pot with a power drill mixer in the back of the firehouse kitchen. They will prepare the meat, eggs, and coffee. Breakfast is served at 5:00am!\nThe cost for this all you can eat event is $6.00 Adults, $5.00 Seniors, and kids under 12 are $4.00. Firefighters expect to make around 1,500 pancakes, 800 eggs, and countless cups of coffee throughout the morning."
-start_at: 2017-08-12 05:00:00
-end_at: 2017-08-12 09:00:00
-image_path: /breakfast sign.jpg
-address: 101 S. Irene Ave.
-city: Milliken
+title: FRFR BBQ Day Pancake Breakfast
+description: >-
+  Every year on the first Saturday of June the firefighters of the Front Range
+  Fire Rescue host a pancake breakfast for the community. 
+
+  Firefighters will start pancake preparations around 4 a.m., preparing the
+  batter in a gargantuan cauldron looking pot with a power drill mixer in the
+  back of the firehouse kitchen. They will prepare the meat, eggs, and coffee.
+  Breakfast is served at 5:00am!
+
+  The cost for this all you can eat event is $6.00 Adults, $5.00 Seniors, and
+  kids under 12 are $4.00. Firefighters expect to make around 1,500 pancakes,
+  800 eggs, and countless cups of coffee throughout the morning.
+start_at: 2018-06-02 05:00:00
+end_at: 2018-06-02 09:00:00
+image_path: /uploads/bbq-day-logo1.png
+address: 100 S. Telep Ave
+city: Johnstown
 state: CO
-zip: '80543'
+zip: '80534'
 ---
 
-
-Celebrating Beef n Bean Day with our annual pancake breakfast!
+Celebrating Johnstown's BBQ Day with our annual pancake breakfast!
