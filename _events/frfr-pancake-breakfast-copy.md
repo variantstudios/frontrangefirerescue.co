@@ -13,14 +13,13 @@ description: >-
   The cost for this all you can eat event is $6.00 Adults, $5.00 Seniors, and
   kids under 12 are $4.00. Firefighters expect to make around 1,500 pancakes,
   800 eggs, and countless cups of coffee throughout the morning.
-start_at: 2016-08-13 05:00:00
-end_at: 2016-08-13 09:00:00
+start_at: 2018-08-11 05:00:00
+end_at: 2018-08-11 09:00:00
 image_path: /breakfast sign.jpg
 address: 101 S. Irene Avenue
 city: Milliken
 state: CO
 zip: '80543'
 ---
-
 
 Celebrating Beef n Bean Day with our annual pancake breakfast!
