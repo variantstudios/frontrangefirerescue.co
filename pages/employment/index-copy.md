@@ -10,42 +10,42 @@ With an ever-expanding demand for emergency services, we depend on our Reserve F
 
 #### FRONT RANGE FIRE RESCUE’S CURRENT REQUIREMENTS TO APPLY&nbsp; INCLUDE THE FOLLOWING:
 
-* Be at least 18 years of age{: .m8956877859916710715m-6500360594811992141gmail-}
-* Must have a High School Diploma/GED equivalent{: .m8956877859916710715m-6500360594811992141gmail-}
-* Must maintain and have in good standing a valid driver's license{: .m8956877859916710715m-6500360594811992141gmail-}
-* All applicants are required to have a State of Colorado (or IFSAC/ProBoard) Firefighter 1 and Hazardous Materials - Operations level certificationat the time of their panel interview
+* Be at least 18 years of age
+* Must have a High School Diploma/GED equivalent
+* Must maintain and have in good standing a valid driver’s license
+* All applicants are required to have a State of Colorado (or IFSAC/ProBoard) Firefighter 1 and Hazardous Materials - Operations level certification at the time of their panel interview
 
 <div><strong></strong>
-					<p style="margin:0in 0in 8pt"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri&quot;,sans-serif">APPLICATION PROCESS</span></strong>
-						</span>
-						</span>
-						</span>
-					</p>
-					<ul>
-						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Possess valid Firefighter 1 and Hazardous Materials - Operations certificates</span></span>
-							</span>
-						</li>
-						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete NTN FireTeam test and submit your results to Front Range Fire Rescue</span></span>
-							</span>
-						</li>
-						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete an application&nbsp;<strong><span style="font-family:&quot;Calibri&quot;,sans-serif"><a style="color:blue; text-decoration:underline" href="/uploads/FRFR application 2018 Fillin.pdf">here</a>&nbsp;</span></strong>and return it per instructions at the bottom of this page</span>
-							</span>
-							</span>
-						</li>
-						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ride along evaluation</span></span>
-							</span>
-						</li>
-						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Panel interview</span></span>
-							</span>
-						</li>
-						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Chief&rsquo;s interview</span></span>
-							</span>
-						</li>
-						<li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Health screening and background check, after all above items are complete</span></span>
-							</span>
-						</li>
-					</ul>
-				</div>
+          <p style="margin:0in 0in 8pt"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri&quot;,sans-serif">APPLICATION PROCESS</span></strong>
+            </span>
+            </span>
+            </span>
+          </p>
+          <ul>
+            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Possess valid Firefighter 1 and Hazardous Materials - Operations certificates</span></span>
+              </span>
+            </li>
+            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete NTN FireTeam test and submit your results to Front Range Fire Rescue</span></span>
+              </span>
+            </li>
+            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete an application&nbsp;<strong><span style="font-family:&quot;Calibri&quot;,sans-serif"><a style="color:blue; text-decoration:underline" target="_blank" href="/uploads/FRFR application 2018 Fillin.pdf">here</a>&nbsp;</span></strong>and return it per instructions at the bottom of this page</span>
+              </span>
+              </span>
+            </li>
+            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ride along evaluation</span></span>
+              </span>
+            </li>
+            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Panel interview</span></span>
+              </span>
+            </li>
+            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Chief&rsquo;s interview</span></span>
+              </span>
+            </li>
+            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Health screening and background check, after all above items are complete</span></span>
+              </span>
+            </li>
+          </ul>
+        </div>
 
 <div>&nbsp;</div>
 
@@ -60,12 +60,12 @@ FRFR accepts applications from candidates who possess valid IFSAC or ProBoard ce
 FRFR currently hires full time firefighters from our pool of qualified Reserves. From January 2017 to January 2018, FRFR hired 7 Reserves into full time positions.
 
 <div>
-					<p style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">We require Reserve members to work at least 36 hours and attend 1 operational training per month. Reserves are able to work additional hours and attend training beyond these minimum requirements.</span></span>
-						</span>
-						</span>
-						</span>
-					</p>
-				</div>
+          <p style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">We require Reserve members to work at least 36 hours and attend 1 operational training per month. Reserves are able to work additional hours and attend training beyond these minimum requirements.</span></span>
+            </span>
+            </span>
+            </span>
+          </p>
+        </div>
 
 FRFR provides continued training, development, and certification opportunities to our Reserve members. These include vehicle extrication, low angle rope recovery, ice rescue, State of Colorado certification as Firefighter II, Fire Officer, Driver/Operator, and Instructor, as well as others.
 
