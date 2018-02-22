@@ -5,7 +5,7 @@ description: >-
   Bean Day the firefighters of the Front Range Fire Rescue Authority host a
   pancake breakfast for the community. 
 
-  August 12, 2017 firefighters will start pancake preparations around 4 a.m.,
+  August 11, 2018 firefighters will start pancake preparations around 4 a.m.,
   preparing the batter in a gargantuan caldron looking pot with a power drill
   mixer in the back of the firehouse kitchen. They will prepare the meat, eggs,
   and coffee. Breakfast is served at 5:00am!
