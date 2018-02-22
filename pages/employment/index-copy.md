@@ -81,8 +81,4 @@ FRFR provides continued training, development, and certification opportunities t
 
 <div>&nbsp;</div>
 
-## [**APPLICATION**](/uploads/FRFR application.pdf)
-
-<div>&nbsp;</div>
-
-[Applications](/uploads/FRFR application 2018 Fillin.pdf) are to be submitted in person between 9:00 -17:00 hours, to Station 2 at 101 S Irene Ave, Milliken CO or via email to **[nkronholm@frfr.co](javascript:void(location.href='mailto:'+String.fromCharCode(110,107,114,111,110,104,111,108,109,64,102,114,102,114,46,99,111)))**.
+**[Applications](/uploads/FRFR application 2018 Fillin.pdf)**are to be submitted in person between 9:00 -17:00 hours, to Station 2 at 101 S Irene Ave, Milliken CO or via email to **[nkronholm@frfr.co](javascript:void(location.href='mailto:'+String.fromCharCode(110,107,114,111,110,104,111,108,109,64,102,114,102,114,46,99,111)))**.
