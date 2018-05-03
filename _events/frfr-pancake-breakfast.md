@@ -14,7 +14,7 @@ description: >-
   800 eggs, and countless cups of coffee throughout the morning.
 start_at: 2018-06-02 05:00:00
 end_at: 2018-06-02 09:00:00
-image_path: /uploads/bbq-day-logo1.png
+image_path: /uploads/2018-sign.jpg
 address: 100 S. Telep Ave
 city: Johnstown
 state: CO
@@ -22,3 +22,5 @@ zip: '80534'
 ---
 
 Celebrating Johnstown's BBQ Day with our annual pancake breakfast!
+
+![](/uploads/2018-sign-1.jpg)
