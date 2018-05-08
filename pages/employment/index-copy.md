@@ -25,9 +25,10 @@ With an ever-expanding demand for emergency services, we depend on our Reserve F
             <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Possess valid Firefighter 1 and Hazardous Materials - Operations certificates</span></span>
               </span>
             </li>
-            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete NTN FireTeam test and submit your results to Front Range Fire Rescue</span></span>
+            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete the NTN FireTeam test and submit your results to Front Range Fire Rescue</span></span>
               </span>
             </li>
+            <li style="margin: 0in 0in 8pt;">Complete a CPAT agility test</li>
             <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete an application&nbsp;<strong><span style="font-family:&quot;Calibri&quot;,sans-serif"><a style="color:blue; text-decoration:underline" target="_blank" href="/uploads/FRFR application 2018 Fillin.pdf">here</a>&nbsp;</span></strong>and return it per instructions at the bottom of this page</span>
               </span>
               </span>
@@ -81,4 +82,4 @@ FRFR provides continued training, development, and certification opportunities t
 
 <div>&nbsp;</div>
 
-**[Applications](/uploads/FRFR application 2018 Fillin.pdf)&nbsp;**are to be submitted in person between 9:00 -17:00 hours, to Station 2 at 101 S Irene Ave, Milliken CO or via email to **[nkronholm@frfr.co](javascript:void(location.href='mailto:'+String.fromCharCode(110,107,114,111,110,104,111,108,109,64,102,114,102,114,46,99,111)))**.
+**[Applications](/uploads/FRFR application 2018 Fillin.pdf){: target="_blank"}&nbsp;**are to be submitted in person between 9:00 -17:00 hours, to Station 2 at 101 S Irene Ave, Milliken CO or via email to **[nkronholm@frfr.co](javascript:void(location.href='mailto:'+String.fromCharCode(110,107,114,111,110,104,111,108,109,64,102,114,102,114,46,99,111)))**.
