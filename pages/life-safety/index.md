@@ -5,7 +5,7 @@ permalink: /life-safety/
 ---
 
 * [Community](/resources/community)&nbsp;Risk Reduction
-* [Construction Services](/resources/construction-services)
+* [Construction Service](/resources/fire-prevention)s
 * [Links](/resources/links)/Services
 
 ###### **Welcome to the FRFR Life Safety Division**
