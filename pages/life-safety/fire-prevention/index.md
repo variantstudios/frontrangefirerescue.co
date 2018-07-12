@@ -93,7 +93,7 @@ Front Range Fire Rescue (FRFR) has adopted the International Fire Code within it
           <h3><strong>Forms, Information, and Applications for Permits:</strong></h3>
           <div><a target="_blank" href="/uploads/NFPA Working Plans Checklist.pdf">NFPA Working Plans Checklist</a></div>
           <div><a target="_blank" href="/uploads/Plan Submittal Application (2018).pdf">Plan Review/Permit Application Form</a></div>
-          <div>Plan Review and Permit Fee Sch<a data-cms-editor-link-style="undefined" href="/FRFR Fee Schedule (07-12-2018).pdf">...</a>edule</div>
+          <div><a href="__notset__">Plan Review and Permit Fee Schedule</a></div>
           <div><a target="_blank" href="/uploads/Application for Contractor Licensing.pdf">Application for Contractor Licensing</a></div>
           <div><a target="_blank" href="/uploads/Development Requirements.pdf">Development Requirements</a></div>
           <div><a target="_blank" href="/uploads/Fire Protection Requirements (2006 IFC).pdf">Fire Protection Requirements (2006 IFC)</a></div>
