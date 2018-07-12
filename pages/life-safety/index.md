@@ -4,9 +4,9 @@ title: LIFE SAFETY DIVISION
 permalink: /life-safety/
 ---
 
-* [Community](/resources/community)&nbsp;Risk Reduction
-* Construction Service[s](__notset__)
-* [Links](/resources/links)/Services
+* Community Risk Reduction
+* Construction Services
+* Links/Services
 
 ###### **Welcome to the FRFR Life Safety Division**
 
