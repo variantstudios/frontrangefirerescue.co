@@ -4,7 +4,6 @@ title: LIFE SAFETY DIVISION
 permalink: /life-safety/
 ---
 
-
 * [Community](/resources/community)[&nbsp;Risk Reduction](/resources/community/)
 * [Construction Services](/resources/fire-prevention/)
 * [Links](/resources/links)/Services
@@ -17,7 +16,7 @@ Office Hours: Monday through Friday, 8:00 a.m. to 4:30 p.m.
 
 Life Safety Chief/Fire Marshal Ty Drage
 
-Phone: 970-587-4464 x105
+Phone: 970-587-4464 x208
 
 Fax: 970-587-0324
 
