@@ -4,7 +4,7 @@ title: LIFE SAFETY DIVISION
 permalink: /life-safety/
 ---
 
-* [Community](/resources/community)[&nbsp;Risk Reduction](/resources/construction-services/)
+* [Community](/resources/community)&nbsp;Risk Reduction
 * [Construction Services](/resources/construction-services/){: target="_blank"}
 * [Links](/resources/links)/Services
 
