@@ -14,7 +14,7 @@ Providing community risk reduction and life safety services to the citizens of J
 
 Office Hours: Monday through Friday, 8:00 a.m. to 4:30 p.m.
 
-Life Safety Chief/Fire Marshal Ty Drage
+[Life Safety Chief/Fire Marshal Ty Drage&nbsp;](mailto:tdrage@frfr.co?subject=Website%20Inquiry)
 
 Phone: 970-587-4464 x208
 
