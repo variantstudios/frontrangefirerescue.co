@@ -1,5 +1,5 @@
 ---
-title: FRFR Public Hearing
+title: FRFR Board Meeting / Public Hearing
 description:
 start_at: 2018-08-08 18:00:00
 end_at: 2018-08-08 20:00:00
