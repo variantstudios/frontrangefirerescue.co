@@ -1,6 +1,6 @@
 ---
-title: FRFR Board Meeting
-description: Monthly board meeting public is welcome to attend.
+title: FRFR Public Hearing
+description:
 start_at: 2018-08-08 18:00:00
 end_at: 2018-08-08 20:00:00
 image_path: /siteicon.png
