@@ -16,34 +16,30 @@ With an ever-expanding demand for emergency services, we depend on our Reserve F
 * All applicants are required to have a State of Colorado (or IFSAC/ProBoard) Firefighter 1 and Hazardous Materials - Operations level certification at the time of their panel interview
 
 <div><strong></strong>
-          <p style="margin:0in 0in 8pt"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri&quot;,sans-serif">APPLICATION PROCESS</span></strong>
-            </span>
-            </span>
-            </span>
-          </p>
           <ul>
-            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Possess valid Firefighter 1 and Hazardous Materials - Operations certificates</span></span>
-              </span>
+            <li>
+              <h6>Possess valid Firefighter 1 and Hazardous Materials - Operations certificates</h6>
             </li>
-            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete the NTN FireTeam test and submit your results to Front Range Fire Rescue</span></span>
-              </span>
+            <li>
+              <h6>Complete the NTN FireTeam test and submit your results to Front Range Fire Rescue</h6>
             </li>
-            <li style="margin: 0in 0in 8pt;">Complete a CPAT agility test</li>
-            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Complete an application&nbsp;<strong><span style="font-family:&quot;Calibri&quot;,sans-serif"><a style="color:blue; text-decoration:underline" target="_blank" href="/uploads/FRFR application 2018 Fillin.pdf">here</a>&nbsp;</span></strong>and return it per instructions at the bottom of this page</span>
-              </span>
-              </span>
+            <li>
+              <h6>Complete a CPAT agility test</h6>
             </li>
-            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ride along evaluation</span></span>
-              </span>
+            <li>
+              <h6>Complete an application&nbsp;<a target="_blank" href="/uploads/FRFR application 2018 Fillin.pdf">here</a>&nbsp;and return it per instructions at the bottom of this page</h6>
             </li>
-            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Panel interview</span></span>
-              </span>
+            <li>
+              <h6>Ride along evaluation</h6>
             </li>
-            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Chief&rsquo;s interview</span></span>
-              </span>
+            <li>
+              <h6>Panel interview</h6>
             </li>
-            <li style="margin: 0in 0in 8pt;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Health screening and background check, after all above items are complete</span></span>
-              </span>
+            <li>
+              <h6>Chief&rsquo;s interview</h6>
+            </li>
+            <li>
+              <h6>Health screening and background check, after all above items are complete</h6>
             </li>
           </ul>
         </div>
@@ -80,6 +76,4 @@ FRFR provides continued training, development, and certification opportunities t
 
 <div>Our Training Captain, Nat Kronholm oversees the Reserve program. He can be reached at 970-587-4464 ext 103 or<strong> <a href="javascript:void(location.href='mailto:'+String.fromCharCode(110,107,114,111,110,104,111,108,109,64,102,114,102,114,46,99,111))">nkronholm@frfr.co</a></strong> if you have any additional questions.</div>
 
-<div>&nbsp;</div>
-
-**[Applications](/uploads/FRFR application 2018 Fillin.pdf){: target="_blank"}&nbsp;**are to be submitted in person between 9:00 -17:00 hours, to Station 2 at 101 S Irene Ave, Milliken CO or via email to **[nkronholm@frfr.co](javascript:void(location.href='mailto:'+String.fromCharCode(110,107,114,111,110,104,111,108,109,64,102,114,102,114,46,99,111)))**.
+<div><strong><a target="_blank" href="/uploads/FRFR application 2018 Fillin.pdf">Applications</a>&nbsp;</strong>are to be submitted in person between 9:00 -17:00 hours, to Station 2 at 101 S Irene Ave, Milliken CO or via email to <strong><a href="javascript:void(location.href='mailto:'+String.fromCharCode(110,107,114,111,110,104,111,108,109,64,102,114,102,114,46,99,111))">nkronholm@frfr.co</a></strong>.</div>
