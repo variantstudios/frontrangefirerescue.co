@@ -10,15 +10,13 @@ permalink: /board-information//
 
 **FRFR Board of Directors**
 
-[Darrin Rutt, President](mailto:drutt@frfr.co?subject=Website%20Inquiry)
+[Darrin Rutt, President](mailto:drutt@frfr.co?subject=Website%20Inquiry)&nbsp; &nbsp; &nbsp; &nbsp;[Blair Howe, Vice President](mailto:bhowe@frfr.co?subject=Website%20Inquiry)
 
-[Blair Howe, Vice President](mailto:bhowe@frfr.co?subject=Website%20Inquiry)
+Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freehling
 
-Jim Young,&nbsp; Secretary
+&nbsp;
 
-Reid Hobler, Treasurer
-
-Greg Freehling
+&nbsp;
 
 ## Questions or Comments:
 
