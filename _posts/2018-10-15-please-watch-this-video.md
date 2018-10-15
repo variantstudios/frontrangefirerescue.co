@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Now accepting applications for our Citizens Advisory Group
-date: 2018-09-13 12:00:00
-image_path: /uploads/20180912-171338-1.jpg
+title: Please watch this video
+date: 2018-10-15 12:00:00
+image_path:
 ---
 
 <br>In today’s world, citizens are participating in the discussion about their quality of life, taxes, and government services. Realizing that public input is the key to tailoring the services that Front Range Fire Rescue provides, the District has established a Citizens Advisory Group (CAG). FRFR is interested in receiving input and advice from a formalized group of citizens who have a desire to express their interest in improving the emergency services within the community. The CAG will serve as a vital link between the District's leadership and the public we serve.
