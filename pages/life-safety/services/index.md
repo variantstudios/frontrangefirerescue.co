@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Services"
+title: Other Services
 permalink: /resources/services/
 ---
 
