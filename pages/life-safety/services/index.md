@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Other Services
-permalink: /resources/other-services/
+permalink: /resources/other-services
 ---
 
 * **[Hazardous Materials Information/Permits](#)**
