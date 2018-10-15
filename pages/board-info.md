@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FRFR Board Information
+title: FRFR Board of Directors
 permalink: /board-information//
 ---
 
