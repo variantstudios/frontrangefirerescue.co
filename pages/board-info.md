@@ -16,6 +16,8 @@ Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freeh
 
 ###### 2018 AGENDA
 
+Click on month to see the agenda
+
 * [January](/uploads/agendas/FRFR Agenda January 10, 2018.docx)
 * [February](/uploads/agendas/FRFR Agenda February 15, 2018.pdf)
 * [March](/uploads/agendas/FRFR Agenda March 14, 2018 (1).pdf)
