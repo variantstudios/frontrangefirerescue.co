@@ -26,14 +26,14 @@ Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freeh
 * [August](/uploads/agendas/FRFR Agenda August 8, 2018.docx)
 * [September](/uploads/agendas/FRFR Agenda September 12, 2018.pdf)
 * [October](/uploads/agendas/FRFR Agenda October 10, 2018.pdf)&nbsp;
-* November
+* [November](/uploads/agendas/JOINT Pension and Regular meeting  Agendas November 14, 2018.pdf)
 * December
 
 &nbsp;
 
 ## Questions or Comments:
 
-<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="535" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt664013&amp;entsource=&amp;referrer=&amp;header=hide">Fill out my Wufoo form!</iframe></div>
+<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="426" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt591319&amp;entsource=&amp;referrer=&amp;header=hide">Fill out my Wufoo form!</iframe></div>
 
 <script type="text/javascript">
           var z6pl7to0reuswt;(function(d, t) {
