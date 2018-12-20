@@ -8,6 +8,8 @@ permalink: /board-information//
 
 [2018 BOARD MEETING SCHEDULE](/uploads/2018 Meeting Notice.pdf){: target="_blank"}
 
+[2019 BOARD MEETING SCHEDULE](/uploads/2019 Meeting Notice.pdf)
+
 **FRFR Board of Directors**
 
 [Darrin Rutt, President](mailto:drutt@frfr.co?subject=Website%20Inquiry)&nbsp; &nbsp; &nbsp; &nbsp;[Blair Howe, Vice President](mailto:bhowe@frfr.co?subject=Website%20Inquiry)
