@@ -27,6 +27,8 @@ try { z6pl7to0reuswt = new WufooForm();z6pl7to0reuswt.initialize(options);z6pl7t
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
 
+## [2019 Transparency Notice](/uploads/2019 transparency Notice.pdf)
+
 ## Our Stations:
 
 <div class="clearfix stations" itemscope=""><p itemprop="name"><b>Station 1:</b></p><p itemprop="location">100 Telep Avenue</p><p itemprop="location">Johnstown, CO 80534</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3041.2668096513!2d-104.92431719999999!3d40.3364269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876ea99057de9c05%3A0x4192caafa62548cf!2s100+Telep+Ave%2C+Johnstown%2C+CO+80534!5e0!3m2!1sen!2sus!4v1440607173950" frameborder="0" allowfullscreen="" style="border: 0px currentColor; border-image: none;" itemprop="map"></iframe></div>
