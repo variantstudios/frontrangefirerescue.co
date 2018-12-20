@@ -14,21 +14,21 @@ permalink: /board-information//
 
 Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freehling
 
-###### 2018 AGENDA
+###### 2019 AGENDA
 
 Click on month to see the agenda
 
-* [January](/uploads/agendas/FRFR Agenda January 10, 2018.docx)
-* [February](/uploads/agendas/FRFR Agenda February 15, 2018.pdf)
-* [March](/uploads/agendas/FRFR Agenda March 14, 2018 (1).pdf)
-* [April](/April Agenda.pdf)
-* [May](/FRFR Agenda May 9, 2018 (1).docx)
-* [June&nbsp;](/uploads/agendas/FRFR Agenda June 13, 2018.docx)
-* [July](/uploads/agendas/FRFR Agenda July 11, 2018.docx)
-* [August](/uploads/agendas/FRFR Agenda August 8, 2018.docx)
-* [September](/uploads/agendas/FRFR Agenda September 12, 2018.pdf)
-* [October](/uploads/agendas/FRFR Agenda October 10, 2018.pdf)&nbsp;
-* [November](/uploads/agendas/JOINT Pension and Regular meeting  Agendas November 14, 2018.pdf)
+* January
+* February
+* March
+* April
+* May
+* June&nbsp;
+* July
+* August
+* September
+* October&nbsp;
+* November
 * [December](/FRFR Agenda December 12, 2018.pdf)
 
 &nbsp;
