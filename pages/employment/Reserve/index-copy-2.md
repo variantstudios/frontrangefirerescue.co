@@ -4,9 +4,9 @@ title: Reserve Firefighter
 permalink: /reserve/
 ---
 
-#####  
+##### ![](/uploads/img-9994.jpg)
 
-![](/uploads/20180327-113222.jpg)
+&nbsp;
 
 Minimum application requirements:
 
@@ -17,6 +17,6 @@ Minimum application requirements:
 * Current **[FireTeam](https://nationaltestingnetwork.com/publicsafetyjobs/ntn-test-firefighter.cfm){: target="_blank"}** written test
 * Current **[CPAT](https://nationaltestingnetwork.com/publicsafetyjobs/cpat_info.cfm)** certificate
 
-Complete the Front Range Fire Rescue Reserve Application found in the link below and return it with documentation of the above requirements to Battalion Chief Nat Kronholm at **[nkronholm@frfr.co](mailto:nkronholm@frfr.co)** or submit the packet in person at Station 1, 100 Telep Ave, Johnstown, CO.
+Complete the Front Range Fire Rescue Reserve Application found in the link below and return it with documentation of the above requirements to Battalion Chief Nat Kronholm at **[nkronholm@frfr.co](mailto:nkronholm@frfr.co)**&nbsp;or submit the packet in person at Station 1, 100 Telep Ave, Johnstown, CO.
 
 [**Reserve Firefighter Application**](/Reserve FF.pdf)
