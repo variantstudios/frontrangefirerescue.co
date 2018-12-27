@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reserve Firefighter
-permalink: /reserve
+permalink: /reserve/
 ---
 
 #####  
