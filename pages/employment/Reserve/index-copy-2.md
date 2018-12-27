@@ -19,4 +19,4 @@ Minimum application requirements:
 
 Complete the Front Range Fire Rescue Reserve Application found in the link below and return it with documentation of the above requirements to Battalion Chief Nat Kronholm at **[nkronholm@frfr.co](mailto:nkronholm@frfr.co)**&nbsp;or submit the packet in person at Station 1, 100 Telep Ave, Johnstown, CO.
 
-[**Reserve Firefighter Application**](/Reserve FF.pdf)
+[**Reserve Firefighter Application**](/uploads/FRFR application 2018 Fillin.pdf)
