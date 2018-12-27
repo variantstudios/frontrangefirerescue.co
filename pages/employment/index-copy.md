@@ -12,8 +12,6 @@ Front Range Fire Rescue hires Career Firefighters from our active Reserve Firefi
 
 &nbsp;
 
-#### &nbsp;
-
 #### ![](/uploads/img-8930.jpg)
 
 &nbsp;
@@ -31,6 +29,8 @@ Reserve members work alongside our career firefighters in our stations. Reserve 
 &nbsp;
 
 ![](/uploads/img-0034.JPG)
+
+&nbsp;
 
 **Requirements**
 
