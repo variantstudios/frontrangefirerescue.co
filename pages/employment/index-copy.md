@@ -22,11 +22,11 @@ With an ever-expanding demand for emergency services, we depend on our Reserve F
 
 <div><strong>Requirements</strong></div>
 
-Front Range Fire Rescue require Reserve members to work at least 36 hours per month and attend 1 operational training per month. Reserves are able to work additional hours and attend training beyond these minimum requirements.
+Front Range Fire Rescue requires Reserve members to work at least 36 hours per month and attend 1 operational training per month. Reserves are able to work additional hours and attend training beyond these minimum requirements.
 
 <div><strong>Benefits</strong></div>
 
-FRFR provides continued training, development, and certification opportunities to our Reserve members. These include vehicle extrication, low angle rope recovery, ice rescue, State of Colorado certification as Firefighter II, Fire Officer, Driver/Operator, and Instructor, as well as others.
+Front Range Fire Rescue provides continued training, development, and certification opportunities to our Reserve members. These include vehicle extrication, low angle rope recovery, ice rescue, State of Colorado certification as Firefighter II, Fire Officer, Driver/Operator, and Instructor, as well as others.
 
 <div>FRFR also partners with <strong><a href="https://www.uchealth.org/services/emergency-care/northern-colorado-emergency-medical-services/">University of Colorado Health EMS</a></strong> to provide in-house continuing education to maintain EMS certification.</div>
 
