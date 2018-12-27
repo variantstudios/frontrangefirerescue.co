@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Employment
-permalink: /employment/
+title: Reserve Hiring
+permalink: /employment/reservehiring
 ---
 
 #### **Front Range Fire Rescue is looking for RESERVE FIREFIGHTERS!**
 
 With an ever-expanding demand for emergency services, we depend on our Reserve Firefighters to supplement our career staffing.
 
-#### FRONT RANGE FIRE RESCUE’S CURRENT REQUIREMENTS TO APPLY&nbsp; INCLUDE THE FOLLOWING:
+#### FRONT RANGE FIRE RESCUE’S CURRENT REQUIREMENTS TO APPLY  INCLUDE THE FOLLOWING:
 
 * Be at least 18 years of age
 * Must have a High School Diploma/GED equivalent
