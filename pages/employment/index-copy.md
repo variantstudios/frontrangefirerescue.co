@@ -10,9 +10,7 @@ Currently hiring for:
 
 Front Range Fire Rescue hires Career Firefighters from our active Reserve Firefighter ranks.
 
-#### &nbsp;
-
-#### &nbsp;
+&nbsp;
 
 #### &nbsp;
 
@@ -41,6 +39,8 @@ Front Range Fire Rescue requires Reserve members to work at least 36 hours per m
 &nbsp;
 
 ![](/uploads/copy-of-wm-9224.jpg "Photo courtesy of Ian Zahn")
+
+&nbsp;
 
 **Benefits**
 
