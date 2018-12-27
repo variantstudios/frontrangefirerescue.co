@@ -6,7 +6,7 @@ permalink: /employment/
 
 Currently hiring for:
 
-[**Reserve Firefighter**](/employment/reserve)
+[**Reserve Firefighter**](/reserve)
 
 Front Range Fire Rescue hires Career Firefighters from our active Reserve Firefighter ranks.
 
