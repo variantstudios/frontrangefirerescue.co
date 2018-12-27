@@ -38,4 +38,6 @@ Front Range Fire Rescue partners with **[University of Colorado Health EMS](http
 
 By meeting monthly requirements, Reserve members earn a monthly stipend up to $350 and earn a meal stipend for every shift worked.
 
-![](/uploads/copy-of-wm-1116.jpg)
+![](/uploads/img-2253.jpg)
+
+&nbsp;
