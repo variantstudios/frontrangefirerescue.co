@@ -37,3 +37,5 @@ Front Range Fire Rescue provides continued training, development, and certificat
 Front Range Fire Rescue partners with **[University of Colorado Health EMS](https://www.uchealth.org/services/emergency-care/northern-colorado-emergency-medical-services/)** to provide in-house continuing education to maintain EMS certification.
 
 By meeting monthly requirements, Reserve members earn a monthly stipend up to $350 and earn a meal stipend for every shift worked.
+
+![](/uploads/copy-of-wm-1116.jpg)
