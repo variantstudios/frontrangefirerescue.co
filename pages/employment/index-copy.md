@@ -30,14 +30,10 @@ Front Range Fire Rescue requires Reserve members to work at least 36 hours per m
 
 **Benefits**
 
-Front Range Fire Rescue provides continued training, development, and certification opportunities to our Reserve members. These include vehicle extrication, low angle rope recovery, ice rescue, State of Colorado certification as Firefighter II, Fire Officer, Driver/Operator, and Instructor, as well as others.
+Front Range Fire Rescue provides continued training, development, and certification opportunities to our Reserve members. These include vehicle extrication, low angle rope recovery, ice rescue, State of Colorado certification as Firefighter II, Fire Officer, Driver/Operator, and Instructor, as well as others. By meeting monthly requirements, Reserve members earn a monthly stipend up to $350 and earn a meal stipend for every shift worked.
 
 ![](/uploads/img-1098.jpg)
 
 Front Range Fire Rescue partners with **[University of Colorado Health EMS](https://www.uchealth.org/services/emergency-care/northern-colorado-emergency-medical-services/)** to provide in-house continuing education to maintain EMS certification.
 
-By meeting monthly requirements, Reserve members earn a monthly stipend up to $350 and earn a meal stipend for every shift worked.
-
 ![](/uploads/img-2253.jpg)
-
-&nbsp;
