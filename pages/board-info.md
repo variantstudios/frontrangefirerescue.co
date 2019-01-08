@@ -6,8 +6,6 @@ permalink: /board-information//
 
 [**FRFR&nbsp;****TRANSPARENCY REPORT 201****9**](/uploads/2019 transparency Notice.pdf)
 
-[2018 BOARD MEETING SCHEDULE](/uploads/2018 Meeting Notice.pdf){: target="_blank"}
-
 [2019 BOARD MEETING SCHEDULE](/uploads/2019 Meeting Notice.pdf)
 
 **FRFR Board of Directors**
@@ -20,7 +18,7 @@ Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freeh
 
 Click on month to see the agenda
 
-* January
+* [January](/uploads/agendas/FRFR Agenda January 9, 2019.pdf)
 * February
 * March
 * April
