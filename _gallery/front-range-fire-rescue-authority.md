@@ -3,15 +3,15 @@ layout: gallery
 title: Front Range Fire Rescue
 permalink: /gallery/frfra-newpictures/
 images:
-  - title: Station 1
-    small_image_path: /uploads/img_1988.jpg
-    large_image_path: /uploads/img_1988.jpg
-  - title: Station 2
-    small_image_path: /assets/images/gallery/full/a2.jpg
-    large_image_path: /assets/images/gallery/full/a2.jpg
-  - title: Station 2
-    small_image_path: /assets/images/gallery/full/008.jpg
-    large_image_path: /assets/images/gallery/full/008.jpg
+  - title: A SHIFT
+    small_image_path: /uploads/img-3352.jpg
+    large_image_path: /uploads/img-3352.jpg
+  - title: B SHIFT
+    small_image_path: /uploads/bshift-1.jpg
+    large_image_path: /uploads/bshift-1.jpg
+  - title: C SHIFT
+    small_image_path: /uploads/img-3441.jpg
+    large_image_path: /uploads/img-3441.jpg
   - title: Station 2
     small_image_path: /assets/images/gallery/full/calendar 043.jpg
     large_image_path: /assets/images/gallery/full/calendar 043.jpg
@@ -31,5 +31,4 @@ images:
     small_image_path: /assets/images/gallery/thumb/office pic.jpg
     large_image_path: /assets/images/gallery/full/office pic.jpg
 ---
-
 
