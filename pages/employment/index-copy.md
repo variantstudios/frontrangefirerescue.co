@@ -36,11 +36,9 @@ Reserve members work alongside our career firefighters in our stations. Reserve 
 
 Front Range Fire Rescue requires Reserve members to work at least 36 hours per month and attend 1 operational training per month. Reserves are able to work additional hours and attend training beyond these minimum requirements.
 
-&nbsp;
+![Ian Zahn](/uploads/copy-of-wm-9225.jpg "Photo courtesy of Ian Zahn")
 
-&nbsp;
-
-&nbsp;
+Photo courtesy of Ian Zahn
 
 **Benefits**
 
