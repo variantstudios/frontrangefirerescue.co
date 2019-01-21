@@ -12,8 +12,8 @@ description: >-
   The cost for this all you can eat event is $6.00 Adults, $5.00 Seniors, and
   kids under 12 are $4.00. Firefighters expect to make around 1,500 pancakes,
   800 eggs, and countless cups of coffee throughout the morning.
-start_at: 2018-06-02 05:00:00
-end_at: 2018-06-02 09:00:00
+start_at: 2019-06-01 05:00:00
+end_at: 2019-06-01 09:00:00
 image_path: /uploads/2018-sign.jpg
 address: 100 S. Telep Ave
 city: Johnstown
