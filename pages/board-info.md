@@ -4,9 +4,9 @@ title: FRFR Board of Directors
 permalink: /board-information//
 ---
 
-[**FRFR&nbsp;****TRANSPARENCY REPORT 201****9**](/uploads/2019 transparency Notice.pdf)
+[**FRFR&nbsp;****TRANSPARENCY REPORT 201****9**](/uploads/2019 transparency Notice.pdf){: target="_blank"}
 
-[2019 BOARD MEETING SCHEDULE](/uploads/2019 Meeting Notice.pdf)
+[2019 BOARD MEETING SCHEDULE](/uploads/2019 Meeting Notice.pdf){: target="_blank"}
 
 **FRFR Board of Directors**
 
@@ -18,8 +18,8 @@ Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freeh
 
 Click on month to see the agenda
 
-* [January](/uploads/agendas/FRFR Agenda January 9, 2019.pdf)
-* [February](/uploads/agendas/JOINT Agenda February 13, 2019.pdf)
+* [January](/uploads/agendas/FRFR Agenda January 9, 2019.pdf){: target="_blank"}
+* [February](/uploads/agendas/JOINT Agenda February 13, 2019.pdf){: target="_blank"}
 * March
 * April
 * May
@@ -29,31 +29,31 @@ Click on month to see the agenda
 * September
 * October&nbsp;
 * November
-* [December](/FRFR Agenda December 12, 2018.pdf)
+* [December](/FRFR Agenda December 12, 2018.pdf){: target="_blank"}
 
 &nbsp;
 
 ## Questions or Comments:
 
-<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="531" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt44574&amp;entsource=&amp;referrer=&amp;header=hide">Fill out my Wufoo form!</iframe></div>
+<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="531" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt857331&amp;entsource=&amp;referrer=&amp;header=hide">Fill out my Wufoo form!</iframe></div>
 
 <script type="text/javascript">
           var z6pl7to0reuswt;(function(d, t) {
-                  var s = d.createElement(t), options = {
-                  'userName':'frfr',
-                  'formHash':'z6pl7to0reuswt',
-                  'autoResize':true,
-                  'height':'577',
-                  'async':true,
-                  'host':'wufoo.com',
-                  'header':'hide',
-                  'ssl':true};
-                  s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-                  s.onload = s.onreadystatechange = function() {
-                  var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-                  try { z6pl7to0reuswt = new WufooForm();z6pl7to0reuswt.initialize(options);z6pl7to0reuswt.display(); } catch (e) {}};
-                  var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-                  })(document, 'script');
+                          var s = d.createElement(t), options = {
+                          'userName':'frfr',
+                          'formHash':'z6pl7to0reuswt',
+                          'autoResize':true,
+                          'height':'577',
+                          'async':true,
+                          'host':'wufoo.com',
+                          'header':'hide',
+                          'ssl':true};
+                          s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+                          s.onload = s.onreadystatechange = function() {
+                          var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+                          try { z6pl7to0reuswt = new WufooForm();z6pl7to0reuswt.initialize(options);z6pl7to0reuswt.display(); } catch (e) {}};
+                          var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+                          })(document, 'script');
         </script>
 
 ## &nbsp;
