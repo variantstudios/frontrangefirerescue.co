@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FRFR Fire Chief
+title: FRFR Hiring for Fire Chief
 date: 2019-02-18 15:00:00
 image_path: /uploads/front-range-fire-rescue-maltese.jpg
 ---
