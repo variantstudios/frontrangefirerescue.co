@@ -6,7 +6,7 @@ permalink: /resources/construction-services/
 
 ### **Scope**
 
-Front Range Fire Rescue (FRFR) has adopted the International Fire Code within its jurisdictional area. The [2006 IFC](/uploads/2006 IFC Amendments.pdf){: target="_blank"} is in place within the Town of Johnstown corporate limits. The [2012 IFC](/uploads/2012 IFC Amendments.pdf){: target="_blank"} is in place within the Town of Milliken corporate limits as well as unincorporated Weld County. The procedures and processes established within all portions of the FRFR Construction and Development Procedures Manual are applicable throughout the FRFR jurisdiction.
+Front Range Fire Rescue (FRFR) has adopted the International Fire Code within its jurisdictional area. The [2006 IFC](/uploads/2006 IFC Amendments.pdf){: target="_blank"} is in place within the Town of Johnstown corporate limits. The [2012 IFC](/uploads/2012 IFC Amendments.pdf){: target="_blank"} is in place within the Town of Milliken corporate limits as well as unincorporated Weld County. The procedures and processes established within all portions of the FRFR Construction and Development Procedures Manual are applicable throughout the FRFR jurisdiction.&nbsp; Click on&nbsp; [&nbsp;2019 FRFR Construction Procedures Guide](/uploads/Construction Procedures Guide (2019).pdf) for the most current information.
 
 ### **Plans to be Reviewed**
 
