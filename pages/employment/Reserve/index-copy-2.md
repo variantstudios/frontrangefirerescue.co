@@ -15,7 +15,7 @@ Minimum application requirements:
 * Valid Driver License
 * State of Colorado Firefighter 1 and Hazardous Materials-Operations certifications
 * Current **[FireTeam](https://nationaltestingnetwork.com/publicsafetyjobs/ntn-test-firefighter.cfm){: target="_blank"}** written test
-* Current **[CPAT](https://nationaltestingnetwork.com/publicsafetyjobs/cpat_info.cfm)** certificate
+* Current **[CPAT](https://www.aims.edu/academics/fire-science/cpat.php){: target="_blank"}** certificate
 
 Complete the Front Range Fire Rescue Reserve Application found in the link below and return it with documentation of the above requirements to Battalion Chief Nat Kronholm at **[nkronholm@frfr.co](mailto:nkronholm@frfr.co)**&nbsp;or submit the packet in person at Station 1, 100 Telep Ave, Johnstown, CO.
 
