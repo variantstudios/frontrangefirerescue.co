@@ -21,7 +21,7 @@ Click on month to see the agenda
 * [January](/uploads/agendas/FRFR Agenda January 9, 2019.pdf){: target="_blank"}
 * [February](/uploads/agendas/JOINT Agenda February 13, 2019.pdf){: target="_blank"}
 * March
-  * [March Work Session](/uploads/agendas/FRFR_Johnstown Work Session Agenda March 11, 2019.pdf)
+  * [March Work Session](/uploads/agendas/FRFR_Johnstown Work Session Agenda March 11, 2019.pdf)&nbsp;with Town of Johnstown
 * April
 * May
 * June&nbsp;
