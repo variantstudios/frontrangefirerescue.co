@@ -8,6 +8,8 @@ Currently hiring for:
 
 [**Reserve Firefighter**](/reserve/)
 
+We are excited to be a part of the [Northern Colorado Firefighter Recruitment Consortium](www.ncfrc.org){: target="_blank"}! Please visit the website to view our partner agencies and learn about Consortium testing.
+
 Front Range Fire Rescue hires Career Firefighters from our active Reserve Firefighter ranks.
 
 &nbsp;
