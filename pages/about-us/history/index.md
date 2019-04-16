@@ -4,11 +4,11 @@ title: "Our History"
 permalink: /about-us/history/
 ---
 
-**History of Front Range Fire Rescue **
+## History of Front Range Fire Rescue&nbsp;
 
 While the agency that is now known as Front Range Fire Rescue Fire Protection District (FRFR) has only existed since January 1, 2018, the agency actually has roots going back to the mid-1900s. FRFR consists of two former separate special districts: Johnstown Fire Protection District and Milliken Fire Protection District. These two districts joined forces in 2015 with the formation of a fire authority, and finally became united as one new special district in 2018. The following sections provide brief histories of each of these unique entities and help provide background on how FRFR came to exist in its current form.
 
-**Johnstown Fire Protection District **
+### Johnstown Fire Protection District&nbsp;
 
 The Town of Johnstown was platted in 1902 by Harvey J. Parish and was incorporated as a Town in 1907. Johnstown is a home rule municipality that is self-governing under Article 20 of the Constitution of the State of Colorado and Title 31, Article 1, Section 202 of Colorado Revised Statutes (CRS). The Town’s home rule charter establishes the position of Town Administrator as an appointed position, reporting to the elected Town Council and Mayor. The Johnstown Fire Protection District (JFPD) was formed to protect the incorporated town of Johnstown, as well as the rural areas surrounding the community. The roots of the organization date back to 1908, when town leaders bought two dozen buckets, ladders and axes to be used in case of fire. In 1924, the first official Johnstown Volunteer Fire Department was organized with 20 members. Hose carts were used to carry hose and equipment to the fire until 1945, when the town bought its first fire truck.
 
@@ -16,7 +16,7 @@ As Johnstown grew, so did the need for more fire protection. In 1952, the town a
 
 In 1998, the District moved into its new headquarters building at 100 Telep Avenue. That same year, JFPD asked a ballot question to remove board member term limits that were imposed by Section 11, Article XVIII of the CRS. The measure passed (67.9% for / 32.1% against) with only 28 votes cast. In late 2011, JFPD and the Town signed an intergovernmental agreement (IGA) whereby the Town designated JFPD as the sole fire and rescue service provider for the town. The IGA included the provision that any new annexations would be given an opportunity to include into the JFPD. The Town boundaries saw rapid growth shortly before that IGA was signed, when the Town annexed the southeast corner of the intersection of Interstate 25 and US Highway 34. Unfortunately, JFPD was not strategically ready to provide emergency service response to this area and the decision was made by the Town during the annexation process to leave the property within the Loveland Rural Fire Protection District. This northern portion of the Town is currently experiencing the greatest amount of new development. The JFPD hired their first paid Administrative Chief Officer in mid-2006. The JFPD changed its name to Front Range Fire Rescue (FRFR) Fire Protection District through the Weld County District Court on May 8, 2017.
 
-**Milliken Fire Protection District **
+### Milliken Fire Protection District&nbsp;
 
 The Town of Milliken is a statutory town that operates under Title 31, Article 1, Section 203 and Article 4, Section 200 of Colorado Revised Statutes. The town operates with a Town Administrator who is appointed and reports to an elected Mayor and Town Council. The town was named after John D. Milliken, a local judge and railroad official. Hillsboro was a trading post that was the first community to be located in the Milliken area, forming in the 1860s. By 1908, the town of Milliken had taken root. In 1910, Milliken annexed Hillsboro. Much of the town was destroyed by fires in the 1910s.
 
