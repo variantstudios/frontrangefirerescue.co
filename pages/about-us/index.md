@@ -6,15 +6,6 @@ permalink: /about-us/
 image_path: /assets/images/badge.png
 ---
 
-
 ![Badge]({{ page.image_path }}){: .post-image}
 
-Front Range Fire Rescue District serves the towns of Johnstown, Milliken, and Weld County.&nbsp;
-
-&nbsp;Using standardized and upgraded equipment, firefighters operate efficiently on scene regardless of the station from which they respond. Both Stations 1 and 2 are staffed with a minimum of three full-time Firefighter/EMTs that remain on duty 24/7/365. Station 3 has Firefighters on site approximately 20 hours per week.
-
-The District established an agreement with University of Colorado Health/Poudre Valley Hospital to provide EMS service staffed with professional paramedic crews. Paramedic crews are stationed in Johnstown (Station 1) and Milliken (Station 2) &nbsp;for rapid response times and advanced life support. Ambulance on-scene times have improved from 30 minutes to less than 9 minutes 93% of the time in suburban areas and less than 12 minutes 74% of the time in rural areas.
-
-Emergency services are provided by a combination of professionally trained volunteer and career staff. Front Range Fire Rescue&nbsp; stands ready to assist our residents, business owners, and visitors with, but not limited to, public education and outreach, disaster preparedness, emergency medical services, fire suppression, and technical rescue. Serving a population of over 20,000 situated in a 74 square mile service area, the Front Range Fire Rescue&nbsp; continues to evolve in order to deliver the highest level of service possible at a reasonable cost. The members of the Front Range Fire Rescue are well trained, courageous, compassionate, and professional members of the communities we serve.
-
-We appreciate the opportunity to serve our community 24/7/365.
+Front Range Fire Rescue (FRFR) is a fire protection district, organized as a special district under Title 32 of Colorado Revised Statutes, serving a 74-square mile service area that includes the towns of Johnstown and Milliken, as well as unincorporated portions of Weld and Larimer counties. FRFR was formally established on January 1, 2018, as a result of the merger of the Johnstown and Milliken fire protection districts during the November 2017 general election. The Milliken and Johnstown fire protection districts have been in existence since 1949 and 1952 respectively. Prior to the 2018 merger, the agency existed since early 2015 as a fire authority – an independent government entity formed through an inter-governmental agreement between the Milliken and Johnstown fire protection districts.<br>FRFR is an all-hazards emergency services agency, providing fire suppression; emergency medical services; basic and technical rescue; hazardous materials mitigation; fire prevention, inspection, and investigation; public education; and domestic preparedness, planning and response for approximately 22,000 residents. The District’s core values of courage, compassion, and professionalism are applied by all members of the District to provide the highest level of service possible to all citizens and guests of the communities served.
