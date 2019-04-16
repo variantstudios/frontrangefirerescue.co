@@ -2,7 +2,7 @@
 layout: post
 title: Front Range Fire Rescue’s 2019 Strategic Plan
 date: 2019-04-16 13:00:00
-image_path:
+image_path: /uploads/pages-from-strategic-plan-final-04-10-2019-1.jpg
 ---
 
 #### Front Range Fire Rescue’s 2019 Strategic Plan
