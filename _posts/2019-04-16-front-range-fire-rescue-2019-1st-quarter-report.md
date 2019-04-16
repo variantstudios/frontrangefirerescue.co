@@ -9,6 +9,6 @@ image_path: /uploads/2019 1st q report (1).jpg
 
 Below is the 1st quarter report for 2019.&nbsp; To view the FRFR 2019 1st Quarter Report,[ **click here**](/uploads/2019 1st q report.pdf)
 
-![](/uploads/cover.jpg)
+![](/uploads/2019-1st-q-report-1.jpg)
 
 &nbsp;
