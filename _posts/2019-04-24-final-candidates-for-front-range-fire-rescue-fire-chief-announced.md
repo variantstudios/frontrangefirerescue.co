@@ -24,3 +24,5 @@ David Schmitt was most recently Fire Chief for the City of Bremerton, Washington
 J. Michael West has been with South Metro Fire Rescue in Colorado since 1990 when he started there as a Firefighter. He received multiple promotions, including Lieutenant, Captain, Battalion Chief/Training Chief and he is currently District Chief/Shift Commander. Mr. West has a master's degree in Strategic Communications & Leadership from Seton Hall University, a bachelor's degree in Management from the University of Colorado, and an associate degree in Fire Sciences from Colorado Mountain College.
 
 Reporting directly to the Board of Directors, the Fire Chief budgets, plans, coordinates, and implements all District programs, activities, and policies established by the Board of Directors. The Fire Chief is also responsible for coordinating the operations of the District with other local, regional, and state fire protection agencies and with other governmental agencies and may function as a Command Officer at emergency scenes.
+
+![](/uploads/asnn-1.jpg)
