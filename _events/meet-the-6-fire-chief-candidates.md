@@ -1,5 +1,5 @@
 ---
-title: Meet the 6 Fire Chief Candidates!
+title: Come meet the 6 Fire Chief Candidates!
 description: >-
   The public is invited to listen to the candidates speak at 4:00 pm on May 14,
   2019, at Grace Community Church, 2033 W South 1st St, Johnstown, CO. There
@@ -13,6 +13,8 @@ city: Milliken
 state: CO
 zip: '80543'
 ---
+
+## **Come meet the 6 Fire Chief Candidates\!**
 
 The public is invited to listen to the candidates speak at 4:00 pm on May 14, 2019, at Grace Community Church, 2033 W South 1st St, Johnstown, CO. There will be an open meet and greet after the presentation for the public to meet the Fire Chief Candidates.&nbsp;
 
