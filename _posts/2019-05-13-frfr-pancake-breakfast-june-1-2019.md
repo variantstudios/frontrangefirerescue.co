@@ -20,4 +20,6 @@ All you can EAT\! Pancakes, eggs, sausage or ham.
 
 Continuing with the Johnstown BBQ Day tradition our Firefighters will be waking up early to have breakfast ready for you and your family\! Come enjoy a great breakfast before heading to the parade.
 
+![](/uploads/ron-final-w-bkgd-1.jpg)
+
 &nbsp;
