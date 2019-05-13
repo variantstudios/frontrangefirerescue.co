@@ -1,8 +1,8 @@
 ---
 layout: post
-title: FINAL CANDIDATES FOR FRONT RANGE FIRE RESCUE FIRE CHIEF ANNOUNCED!
-date: 2019-04-24 12:00:00
-image_path: /uploads/asnn.jpg
+title: 'FRFR Pancake Breakfast June 1, 2019'
+date: 2019-05-13 12:00:00
+image_path:
 ---
 
 **FINAL CANDIDATES FOR FRONT RANGE FIRE RESCUE FIRE CHIEF ANNOUNCED\!**
