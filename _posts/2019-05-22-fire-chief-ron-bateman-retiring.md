@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'FRFR Pancake Breakfast June 1, 2019'
-date: 2019-05-13 12:00:00
-image_path: /uploads/ron-final-w-bkgd.jpg
+title: FIRE CHIEF RON BATEMAN RETIRING
+date: 2019-05-22 17:00:00
+image_path:
 ---
 
 # FRFR PANCAKE BREAKFAST\!
