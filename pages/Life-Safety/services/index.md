@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Other Services
-permalink: /resources/other-services
+permalink: /resources/other-services/
 ---
 
 * **[Hazardous Materials Information/Permits](#)**
@@ -17,3 +17,5 @@ permalink: /resources/other-services
 * **[Fire Extinguisher Training](#)**
 * **[Fill the Boot MDA Labor Day Drive](#)**
 * **[Pancake Community Breakfasts](#)**
+
+&nbsp;
