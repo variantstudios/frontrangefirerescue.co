@@ -5,8 +5,8 @@ date: 2019-07-03 17:00:00
 image_path: /uploads/img-6620final.jpg
 ---
 
-All of us at&nbsp; Front Range Fire Rescue are always seeking innovative ways to improve our service&nbsp; delivery to you, our customer. We place tremendous value on your input and we value your thoughts and opinions.&nbsp; Please take a couple of minutes to complete a short survey.
+Welcome Fire Chief Michael West\!
 
-[https://www.surveymonkey.com/r/HCL9ZYH](https://www.surveymonkey.com/r/HCL9ZYH){: target="_blank"}
+Chief West has been a member of the fire service for over three decades and is a fourth-generation Firefighter. He recently served as District Chief at South Metro Fire Rescue in Centennial. He holds a Master’s Degree from Seton Hall University in Strategic Communication and Leadership and also holds degrees in Management as well as Fire Science.&nbsp; In his spare time, Chief West is a bagpiper with the Colorado Emerald Society and enjoys travel and motorcycle riding. He looks forward to serving the Front Range Fire Rescue community.
 
-Thank you for taking a few minutes to answer these questions to help us serve you better.
+![](/uploads/img-6620final-1.jpg){: width="5184" height="3456"}
