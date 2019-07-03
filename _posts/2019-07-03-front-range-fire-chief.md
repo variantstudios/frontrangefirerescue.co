@@ -2,7 +2,7 @@
 layout: post
 title: Front Range Fire Chief
 date: 2019-07-03 17:00:00
-image_path: /uploads/img-6620final.jpg
+image_path: /uploads/IMG_6620final.jpg
 ---
 
 Welcome Fire Chief Michael West\!
