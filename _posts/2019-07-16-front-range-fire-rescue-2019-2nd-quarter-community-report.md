@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019 2nd Quarter Report
+title: "Front Range Fire Rescue 2019 2nd Quarter\_Community Report"
 date: 2019-07-16 11:00:00
 image_path: /uploads/2019-2nd-q-page-1.jpg
 ---
