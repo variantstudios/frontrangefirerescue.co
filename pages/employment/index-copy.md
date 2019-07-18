@@ -12,7 +12,7 @@ We are excited to be a part of the [**Northern Colorado Firefighter Recruitment 
 
 &nbsp;
 
-![](/uploads/20190707-211954.jpg){: width="3911" height="2201"}
+![](/uploads/20190707-211954.jpg "Ladder 8 and Engine 2 on a working attic fire"){: width="3911" height="2201"}
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Front Range Fire Rescue hires Career Firefighters from our active Reserve Firefi
 
 &nbsp;
 
-#### ![](/uploads/img-8930.jpg)
+#### ![](/uploads/img-8930.jpg "Lt West getting a hoseline deployed on a fire")
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Reserve members work alongside our career firefighters in our stations. Reserve 
 
 &nbsp;
 
-![](/uploads/img-0034.JPG)
+![](/uploads/img-0034.JPG "Engine 2 at live fire training")
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Front Range Fire Rescue requires Reserve members to work at least 36 hours per m
 
 &nbsp;
 
-![Ian Zahn](/uploads/copy-of-wm-9225.jpg "Photo courtesy of Ian Zahn")
+![Ian Zahn](/uploads/copy-of-wm-9225.jpg "Engine 1 and LFRA Tower 6 working a traffic accident. Photo courtesy of Ian Zahn")
 
 Photo courtesy of Ian Zahn
 
@@ -58,7 +58,7 @@ Front Range Fire Rescue provides continued training, development, and certificat
 
 &nbsp;
 
-![](/uploads/img-1098.jpg)
+![](/uploads/img-1098.jpg "Ladder 8 on scene of a structure fire")
 
 &nbsp;
 
@@ -66,4 +66,4 @@ Front Range Fire Rescue partners with **[University of Colorado Health EMS](http
 
 &nbsp;
 
-![](/uploads/img-2253.jpg)
+![](/uploads/img-2253.jpg "Engineer Beam and Battalion Chief Doyon on a wildland fire")
