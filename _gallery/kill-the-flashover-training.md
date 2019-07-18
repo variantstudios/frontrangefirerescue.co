@@ -21,6 +21,9 @@ images:
   - title: Wall breaching
     small_image_path: /uploads/20180814-151649.jpg
     large_image_path: /uploads/20180814-151649.jpg
+  - title: Trench rescue
+    small_image_path: /uploads/20180428-105706.jpg
+    large_image_path: /uploads/20180428-105706.jpg
 ---
 
 Front Range Fire Rescue conducts training for response to fire, EMS, hazardous materials, technical rescue, and other incidents on a regular basis. Below are some photos from recent training.
