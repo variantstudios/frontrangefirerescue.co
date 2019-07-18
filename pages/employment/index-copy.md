@@ -8,7 +8,11 @@ Currently hiring for:
 
 [**Reserve Firefighter**](/reserve/)
 
-We are excited to be a part of the [**Northern Colorado Firefighter Recruitment Consortium**](https://www.ncfrc.org){: target="_blank"}! Please visit the website to view our partner agencies and learn about Consortium testing.
+We are excited to be a part of the [**Northern Colorado Firefighter Recruitment Consortium**](https://www.ncfrc.org){: target="_blank"}\! Please visit the website to view our partner agencies and learn about Consortium testing.
+
+&nbsp;
+
+![](/uploads/20190707-211954.jpg){: width="3911" height="2201"}
 
 &nbsp;
 
