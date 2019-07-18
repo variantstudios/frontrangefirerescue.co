@@ -22,8 +22,8 @@ images:
     small_image_path: /uploads/20180814-151649.jpg
     large_image_path: /uploads/20180814-151649.jpg
   - title: Trench rescue
-    small_image_path: /uploads/20180428-105706.jpg
-    large_image_path: /uploads/20180428-105706.jpg
+    small_image_path: /uploads/20180428-103404.jpg
+    large_image_path: /uploads/20180428-103404.jpg
   - title: Live fire entry
     small_image_path: /uploads/img-0822-1.JPG
     large_image_path: /uploads/img-0822-1.JPG
