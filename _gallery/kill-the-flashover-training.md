@@ -3,7 +3,7 @@ layout: gallery
 title: Training
 permalink: /gallery/training/
 images:
-  - title:
+  - title: Aerial placement skills
     small_image_path: /uploads/20190626-155431-2.jpg
     large_image_path: /uploads/20190626-155431-1.jpg
   - title:
