@@ -13,7 +13,7 @@ images:
     small_image_path: /assets/images/gallery/thumb/new folder/img_4759.jpg
     large_image_path: /assets/images/gallery/full/img_4759.jpg
   - title:
-    small_image_path: /uploads/20190626-155431-1.jpg
+    small_image_path: /uploads/20190626-155431-2.jpg
     large_image_path: /uploads/20190626-155431-1.jpg
   - title:
     small_image_path: /uploads/img-3770.JPG
