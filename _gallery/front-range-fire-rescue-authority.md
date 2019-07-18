@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Front Range Fire Rescue
+title: Staff
 permalink: /gallery/frfra-newpictures/
 images:
   - title: A SHIFT
