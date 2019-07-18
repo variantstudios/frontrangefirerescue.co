@@ -6,7 +6,7 @@ images:
   - title: Aerial placement skills
     small_image_path: /uploads/20190626-155431-2.jpg
     large_image_path: /uploads/20190626-155431-1.jpg
-  - title:
+  - title: Live fire training
     small_image_path: /uploads/img-3770.JPG
     large_image_path: /uploads/img-3770.JPG
   - title:
