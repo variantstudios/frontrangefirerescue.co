@@ -24,7 +24,7 @@ images:
   - title:
     small_image_path: /uploads/20190114-091739.jpg
     large_image_path: /uploads/20190114-091739.jpg
-  - title:
+  - title: Wall breaching
     small_image_path: /uploads/20180814-151649.jpg
     large_image_path: /uploads/20180814-151649.jpg
 ---
