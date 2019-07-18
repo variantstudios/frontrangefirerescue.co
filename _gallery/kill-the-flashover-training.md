@@ -21,6 +21,9 @@ images:
   - title:
     small_image_path: /uploads/20190322-095718.jpg
     large_image_path: /uploads/20190322-095718.jpg
+  - title:
+    small_image_path: /uploads/20190114-091739.jpg
+    large_image_path: /uploads/20190114-091739.jpg
 ---
 
 Front Range Fire Rescue conducts training for response to fire, EMS, hazardous materials, technical rescue, and other incidents on a regular basis. Below are some photos from recent training.
