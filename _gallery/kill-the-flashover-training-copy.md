@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Kill the Flashover Training
-permalink: /gallery/new2015/
+permalink: /gallery/KTF/
 images:
   - title:
     small_image_path: /assets/images/gallery/thumb/829e09_b8b5105899204ec593346bd3225b4fb0.jpg
