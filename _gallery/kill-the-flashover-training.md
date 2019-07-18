@@ -12,7 +12,7 @@ images:
   - title: Live fire training
     small_image_path: /uploads/img-3770.JPG
     large_image_path: /uploads/img-3770.JPG
-  - title:
+  - title: Dollhouse burns
     small_image_path: /assets/images/gallery/full/img_4782.jpg
     large_image_path: /assets/images/gallery/thumb/img_4782.jpg
   - title:
