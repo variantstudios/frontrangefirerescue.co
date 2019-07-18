@@ -3,6 +3,9 @@ layout: gallery
 title: Training
 permalink: /gallery/training/
 images:
+  - title: Foam training
+    small_image_path: /uploads/20190322-095718.jpg
+    large_image_path: /uploads/20190322-095718.jpg
   - title: Aerial placement skills
     small_image_path: /uploads/20190626-155431-2.jpg
     large_image_path: /uploads/20190626-155431-1.jpg
@@ -18,9 +21,6 @@ images:
   - title:
     small_image_path: /assets/images/gallery/thumb/new folder/img_4759.jpg
     large_image_path: /assets/images/gallery/full/img_4759.jpg
-  - title:
-    small_image_path: /uploads/20190322-095718.jpg
-    large_image_path: /uploads/20190322-095718.jpg
   - title:
     small_image_path: /uploads/20190114-091739.jpg
     large_image_path: /uploads/20190114-091739.jpg
