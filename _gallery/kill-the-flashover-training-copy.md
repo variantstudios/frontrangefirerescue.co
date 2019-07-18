@@ -7,9 +7,6 @@ images:
     small_image_path: /assets/images/gallery/thumb/img_1452.jpg
     large_image_path: /assets/images/gallery/full/img_1489.jpg
   - title:
-    small_image_path: /assets/images/gallery/thumb/829e09_b8b5105899204ec593346bd3225b4fb0.jpg
-    large_image_path: /assets/images/gallery/full/829e09_b8b5105899204ec593346bd3225b4fb0.jpg
-  - title:
     small_image_path: /assets/images/gallery/thumb/img_1450.jpg
     large_image_path: /assets/images/gallery/full/img_1450.jpg
   - title:
