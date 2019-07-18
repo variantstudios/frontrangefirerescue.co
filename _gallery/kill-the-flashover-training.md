@@ -17,4 +17,4 @@ images:
     large_image_path:
 ---
 
-Through a combination of classroom and field exercises our members learn about fire behavior and fire gas events as part of a 4 part series on fire behavior education and tactics.
+Front Range Fire Rescue conducts training for response to fire, EMS, hazardous materials, technical rescue, and other incidents on a regular basis. Below are some photos from recent training.
