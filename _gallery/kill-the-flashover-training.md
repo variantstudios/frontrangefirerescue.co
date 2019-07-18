@@ -15,13 +15,7 @@ images:
   - title: Dollhouse burns
     small_image_path: /assets/images/gallery/full/img_4782.jpg
     large_image_path: /assets/images/gallery/thumb/img_4782.jpg
-  - title:
-    small_image_path: /assets/images/gallery/thumb/new folder/1.jpg
-    large_image_path: /assets/images/gallery/full/1.jpg
-  - title:
-    small_image_path: /assets/images/gallery/thumb/new folder/img_4759.jpg
-    large_image_path: /assets/images/gallery/full/img_4759.jpg
-  - title:
+  - title: Taking windows on an acquired structure
     small_image_path: /uploads/20190114-091739.jpg
     large_image_path: /uploads/20190114-091739.jpg
   - title: Wall breaching
