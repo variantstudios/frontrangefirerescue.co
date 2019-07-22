@@ -8,6 +8,12 @@ Currently hiring for:
 
 [**Reserve Firefighter**](/reserve/)
 
+&nbsp;
+
+![](/uploads/20190413-230043.jpg "Engine 2 and Ladder 8 investigate a reported commercial structure fire"){: width="4032" height="3024"}
+
+&nbsp;
+
 We are excited to be a part of the [**Northern Colorado Firefighter Recruitment Consortium**](https://www.ncfrc.org){: target="_blank"}\! Please visit the website to view our partner agencies and learn about Consortium testing.
 
 &nbsp;
