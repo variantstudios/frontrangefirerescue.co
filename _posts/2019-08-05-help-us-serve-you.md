@@ -12,3 +12,5 @@ All of us at&nbsp; Front Range Fire Rescue are always seeking innovative ways to
 https://www.surveymonkey.com/r/HCL9ZYH
 
 Thank you for taking a few minutes to answer these questions to help us serve you better.
+
+![](/uploads/black-firetruck-with-logo.png){: width="3509" height="2550"}
