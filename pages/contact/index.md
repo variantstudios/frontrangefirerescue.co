@@ -8,7 +8,7 @@ Phone&nbsp;**970-587-4464**
 
 Questions or Comments:
 
-<div id="wufoo-z6pl7to0reuswt"><iframe id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="531" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt862650&amp;entsource=&amp;referrer=&amp;header=hide">Fill out my Wufoo form!</iframe></div>
+<div id="wufoo-z6pl7to0reuswt"><iframe title="Embedded Wufoo Form" id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="535" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt320869&amp;entsource=&amp;referrer=&amp;header=hide">Fill out my Wufoo form!</iframe></div>
 
 <script type="text/javascript">var z6pl7to0reuswt;(function(d, t) {
 var s = d.createElement(t), options = {
@@ -39,8 +39,8 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 ## Our Chiefs:
 
-**Ron Bateman&nbsp;**Fire Chief [(rbateman@frfr.co)](mailto:rbateman@frfr.co)
+**Michael West&nbsp;**Fire Chief [(mwest@frfr.co)](mailto:mwest@frfr.co?subject=From%20the%20Website%3A)
 
-**Bernie Covillo Division Chief -**Operations &nbsp;[(bcovillo@frfr.co)](mailto:bcovillo@frfr.co)
+**Bernie Covillo Division Chief &nbsp;**Operations &nbsp;[(bcovillo@frfr.co)](mailto:bcovillo@frfr.co)
 
-**Ty Drage&nbsp;**Life Safety Chief/Fire Marshal [(tdrage@frfr.co)](javascript:void(location.href='mailto:'+String.fromCharCode(116,100,114,97,103,101,64,102,114,102,114,46,99,111)))
+**Ty Drage Division Chief&nbsp;**Life Safety /Fire Marshal [(tdrage@frfr.co)](javascript:void&#40;location.href='mailto:'+String.fromCharCode&#40;116,100,114,97,103,101,64,102,114,102,114,46,99,111&#41;&#41;)
