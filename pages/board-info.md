@@ -28,7 +28,7 @@ Click on month to see the agenda
   * [Special Meeting 5.16.19](/uploads/agendas/FRFR Agenda May 16, 2019.pdf)
 * [June&nbsp;](/uploads/agendas/FRFR Agenda June 12, 2019.pdf)
 * [July](/uploads/agendas/FRFR Agenda July 10, 2019.pdf)
-* August
+* [August](/uploads/Board/FRFR AgendaAugust 14. 2019.pdf)
 * September
 * October&nbsp;
 * November
