@@ -10,8 +10,14 @@ images:
     small_image_path: /assets/images/gallery/full/photo30.jpg
     large_image_path: /assets/images/gallery/full/photo30.jpg
   - title:
-    small_image_path: /assets/images/gallery/full/photo27.jpg
-    large_image_path: /assets/images/gallery/full/photo27.jpg
+    small_image_path: /uploads/img-5072.jpg
+    large_image_path: /uploads/img-5072.jpg
+  - title:
+    small_image_path: /uploads/img-5066.jpg
+    large_image_path: /uploads/img-5066.jpg
+  - title:
+    small_image_path: /assets/images/gallery/full/photo29.jpg
+    large_image_path: /assets/images/gallery/full/photo29.jpg
   - title:
     small_image_path: /assets/images/gallery/full/photo31.jpg
     large_image_path: /assets/images/gallery/full/photo31.jpg
@@ -19,19 +25,13 @@ images:
     small_image_path: /assets/images/gallery/full/photo01.jpg
     large_image_path: /assets/images/gallery/full/photo01.jpg
   - title:
-    small_image_path: /assets/images/gallery/full/photo29.jpg
-    large_image_path: /assets/images/gallery/full/photo29.jpg
-  - title:
     small_image_path: /assets/images/gallery/full/photo20.jpg
     large_image_path: /assets/images/gallery/full/photo20.jpg
   - title:
+    small_image_path: /assets/images/gallery/full/photo27.jpg
+    large_image_path: /assets/images/gallery/full/photo27.jpg
+  - title:
     small_image_path: /assets/images/gallery/full/photo24.jpg
     large_image_path: /assets/images/gallery/full/photo24.jpg
-  - title:
-    small_image_path: /uploads/img-5066.jpg
-    large_image_path: /uploads/img-5066.jpg
-  - title:
-    small_image_path: /uploads/img-5072.jpg
-    large_image_path: /uploads/img-5072.jpg
 ---
 
