@@ -20,9 +20,9 @@ Walking, talking, eating, hugging – every day, kids and adults with muscular d
 
 **Come by our admin office located at station 2 to purchase your tickets, Monday thru Friday between 9-4.&nbsp;*****All** **You Can Eat for**&nbsp;***$15 Adults/$10 Seniors & Kids,&nbsp;***Kids under 4 eat free*
 
-&nbsp;
+***&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ALL&nbsp; NET PROCEEDS DONATED TO MDA ***
 
-## ***ALL&nbsp; NET PROCEEDS DONATED TO MDA ***
+***![](/uploads/download-1.jpg){: width="259" height="195"}***
 
 *&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;*
 
