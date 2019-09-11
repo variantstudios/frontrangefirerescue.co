@@ -30,5 +30,8 @@ images:
   - title:
     small_image_path: /uploads/img-5066.jpg
     large_image_path: /uploads/img-5066.jpg
+  - title:
+    small_image_path: /uploads/img-5072.jpg
+    large_image_path: /uploads/img-5072.jpg
 ---
 
