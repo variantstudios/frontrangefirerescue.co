@@ -13,3 +13,5 @@ Front Range Fire Rescue (FRFR) swore in its newest full-time member Wednesday ni
 West said, “Bishop has demonstrated our values of compassion, courage, and professionalism. I appreciate his drive, and I am confident that he will be an excellent addition to our department.”
 
 FF Dickerson is currently attending CSU Global and pursuing his Bachelor's Degree in Organizational Leadership. Dickerson plans to graduate in the Summer of 2020. When Dickerson isn’t working as a Firefighter or going to school, he enjoys traveling, recently returning from a vacation in Paris, with his fianc&eacute;. Dickerson remarked, “I'm excited to be a part of FRFR as a career member and look forward to many years of service for the communities of Johnstown and Milliken.”
+
+![](/uploads/img-7103.jpg){: width="4315" height="3235"}
