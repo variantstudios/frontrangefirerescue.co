@@ -33,7 +33,7 @@ Click on month to see the agenda
   * [**CHANGE OF LOCATION**](/uploads/Board/change of location9.11.19.pdf)&nbsp;9/11/19 Meeting
     * [Special Meeting 9.25.19](/uploads/Board/FRFR Milliken Town Work Session Agenda Sept 25, 2019.pdf)
 * [October](/uploads/Board/FRFR Agenda Oct 9. 2019.pdf)&nbsp;
-  * [SPECIAL MEETING 10.17.19](/uploads/Board/FRFRspecialMTGAgenda 10.17.19.pdf)
+  * **[SPECIAL MEETING 10.17.19](/uploads/Board/FRFRspecialMTGAgenda 10.17.19.pdf)**
 * November
 * [December](/FRFR Agenda December 12, 2018.pdf){: target="_blank"}
 
