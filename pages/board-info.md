@@ -8,13 +8,13 @@ permalink: /board-information//
 
 [2019 BOARD MEETING SCHEDULE](/uploads/agendas/2019 Meeting Notice revised &#40;1&#41;.pdf){: target="_blank"}
 
-**FRFR Board of Directors**
+### **FRFR Board of Directors**
 
 [Darrin Rutt, President](mailto:drutt@frfr.co?subject=Website%20Inquiry)&nbsp; &nbsp; &nbsp; &nbsp;[Blair Howe, Vice President](mailto:bhowe@frfr.co?subject=Website%20Inquiry)
 
 Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freehling
 
-###### 2019 AGENDA
+### 2019 AGENDA
 
 Click on month to see the agenda
 
@@ -36,6 +36,19 @@ Click on month to see the agenda
   * [**SPECIAL MEETING 10.17.19**](/uploads/Board/FRFR Resolution MTG 10.17.19.pdf)
 * November
 * [December](/FRFR Agenda December 12, 2018.pdf){: target="_blank"}
+
+&nbsp;
+
+### Previous Meeting Packets
+
+* [2015](https://www.poudre-fire.org/about-us/pfa-board-of-directors/-folder-101){: target="_blank"}
+* [2016](https://www.poudre-fire.org/about-us/pfa-board-of-directors/-folder-113){: target="_blank"}
+* [2017](https://www.poudre-fire.org/about-us/pfa-board-of-directors/-folder-124){: target="_blank"}
+* [2018](https://www.poudre-fire.org/about-us/pfa-board-of-directors/-folder-128){: target="_blank"}&nbsp; &nbsp;
+* [2019](https://www.poudre-fire.org/about-us/pfa-board-of-directors/-folder-151){: target="_blank"}
+* 2020
+  * [2019 FRFR Meeting Schedule](https://www.poudre-fire.org/Home/ShowDocument?id=5919){: target="_blank"}
+  * [2020 FRFR Meeting Schedule](https://www.poudre-fire.org/Home/ShowDocument?id=6098){: target="_blank"}
 
 &nbsp;
 
