@@ -37,8 +37,6 @@ Click on month to see the agenda
 * November
 * [December](/FRFR Agenda December 12, 2018.pdf){: target="_blank"}
 
-&nbsp;
-
 ### Previous Meeting Packets
 
 * [2015](https://www.poudre-fire.org/about-us/pfa-board-of-directors/-folder-101){: target="_blank"}
@@ -48,7 +46,7 @@ Click on month to see the agenda
 * [2019](https://www.poudre-fire.org/about-us/pfa-board-of-directors/-folder-151){: target="_blank"}
 * 2020
 
-### Meeting Schedules&nbsp;
+### ​​​​​​​Meeting Schedules&nbsp;
 
 * [2019 FRFR Meeting Schedule](https://www.poudre-fire.org/Home/ShowDocument?id=5919){: target="_blank"}
 * [2020 FRFR Meeting Schedule](https://www.poudre-fire.org/Home/ShowDocument?id=6098){: target="_blank"}
