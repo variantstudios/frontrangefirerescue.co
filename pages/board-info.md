@@ -48,7 +48,7 @@ Click on month to see the agenda
 
 ### Meeting Schedules&nbsp;
 
-* 2019 FRFR Meeting Schedule
+* [2019 FRFR Meeting Schedule](/uploads/Board/2019 Meeting Notice revised &#40;1&#41;.pdf)
 * 2020 FRFR Meeting Schedule
 
 &nbsp;
