@@ -35,7 +35,7 @@ Click on month to see the agenda
 * [October](/uploads/Board/FRFR Agenda Oct 9. 2019.pdf)&nbsp;
   * [**SPECIAL MEETING 10.17.19**](/uploads/Board/FRFR Resolution MTG 10.17.19.pdf)
 * [November](/uploads/Board/FRFR Agenda Nov 13. 2019.pdf)
-* [December](/FRFR Agenda December 12, 2018.pdf){: target="_blank"}
+* December
 
 ### Previous Meeting Packets
 
