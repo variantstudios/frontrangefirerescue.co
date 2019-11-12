@@ -34,7 +34,7 @@ Click on month to see the agenda
     * [Special Meeting 9.25.19](/uploads/Board/FRFR Milliken Town Work Session Agenda Sept 25, 2019.pdf)
 * [October](/uploads/Board/FRFR Agenda Oct 9. 2019.pdf)&nbsp;
   * [**SPECIAL MEETING 10.17.19**](/uploads/Board/FRFR Resolution MTG 10.17.19.pdf)
-* November
+* [November](/uploads/Board/FRFR Agenda Nov 13. 2019.pdf)
 * [December](/FRFR Agenda December 12, 2018.pdf){: target="_blank"}
 
 ### Previous Meeting Packets
