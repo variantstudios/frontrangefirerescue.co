@@ -42,7 +42,7 @@ Click on month to see the agenda
 * 2015
 * 2016
 * 2017
-* 2018[&nbsp;](__notset__)&nbsp;
+* 2018
 * 2019
 * 2020
 
