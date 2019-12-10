@@ -14,4 +14,4 @@ Saturday, December 7th, we held our annual awards banquet to honor the sworn and
 * \*\*FIREFIGHTER OF THE YEAR, Chris Frain \*\*
 * \*\*FIRE CHIEF’S AWARD, Ty Drage \*\*
 
-Congratulations and thank you for your hard work and dedication throughout the year.”
+Congratulations and thank you for your hard work and dedication throughout the year.”![](/uploads/winners-1.jpg){: width="1635" height="780"}
