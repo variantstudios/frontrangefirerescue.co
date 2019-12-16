@@ -14,6 +14,11 @@ permalink: /board-information//
 
 Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freehling
 
+### Meeting Schedules&nbsp;
+
+* [2019 FRFR Meeting Schedule](/uploads/Board/2019 Meeting Notice revised &#40;1&#41;.pdf)
+* [2020 FRFR Meeting Schedule](/uploads/Board/2020 Meeting Notice.pdf)
+
 ### 2019 AGENDA
 
 Click on month to see the agenda
@@ -37,19 +42,11 @@ Click on month to see the agenda
 * [November](/uploads/Board/FRFR Agenda Nov 13. 2019.pdf)
 * [December](/uploads/Board/FRFR Agenda Dec 11, 2019.pdf)
 
-### Previous Meeting Packets
+### Previous Meetings&nbsp;
 
-* 2015
-* 2016
-* 2017
-* 2018
 * 2019
-* 2020
 
-### Meeting Schedules&nbsp;
-
-* [2019 FRFR Meeting Schedule](/uploads/Board/2019 Meeting Notice revised &#40;1&#41;.pdf)
-* [2020 FRFR Meeting Schedule](/uploads/Board/2020 Meeting Notice.pdf)
+### &nbsp;
 
 &nbsp;
 
