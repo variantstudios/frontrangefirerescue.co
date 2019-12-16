@@ -19,38 +19,47 @@ Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freeh
 * [2019 FRFR Meeting Schedule](/uploads/Board/2019 Meeting Notice revised &#40;1&#41;.pdf)
 * [2020 FRFR Meeting Schedule](/uploads/Board/2020 Meeting Notice.pdf)
 
-### 2019 AGENDA
+### 2020 AGENDA
 
-Click on month to see the agenda
+Agendas posted 48 hours before meeting
 
-* [January](/uploads/agendas/FRFR Agenda January 9, 2019.pdf){: target="_blank"}
-* [February](/uploads/agendas/JOINT Agenda February 13, 2019.pdf){: target="_blank"}
-* [March](/uploads/agendas/FRFR Agenda March 12, 2019.pdf)
-  * [March Work Session](/uploads/agendas/FRFR_Johnstown Work Session Agenda March 11, 2019.pdf)&nbsp;with Town of Johnstown
-* [April](/uploads/agendas/FRFR Agenda April 10, 2019.pdf)
-* [May](/uploads/agendas/FRFR Agenda May 8, 2019.pdf)
-  * [Special Meeting 5.15.19](/uploads/agendas/FRFR Agenda May 15, 2019.pdf)
-  * [Special Meeting 5.16.19](/uploads/agendas/FRFR Agenda May 16, 2019.pdf)
-* [June&nbsp;](/uploads/agendas/FRFR Agenda June 12, 2019.pdf)
-* [July](/uploads/agendas/FRFR Agenda July 10, 2019.pdf)
-* [August](/uploads/Board/FRFR AgendaAugust 14. 2019.pdf)
-* [September](/uploads/Board/FRFR Agenda Sept 11. 2019.pdf)
-  * [**CHANGE OF LOCATION**](/uploads/Board/change of location9.11.19.pdf)&nbsp;9/11/19 Meeting
-    * [Special Meeting 9.25.19](/uploads/Board/FRFR Milliken Town Work Session Agenda Sept 25, 2019.pdf)
-* [October](/uploads/Board/FRFR Agenda Oct 9. 2019.pdf)&nbsp;
-  * [**SPECIAL MEETING 10.17.19**](/uploads/Board/FRFR Resolution MTG 10.17.19.pdf)
-* [November](/uploads/Board/FRFR Agenda Nov 13. 2019.pdf)
-* [December](/uploads/Board/FRFR Agenda Dec 11, 2019.pdf)
+#### January
 
-### Previous Meetings&nbsp;
+#### February
 
-* 2019
+#### March
 
-### &nbsp;
+#### April
 
-&nbsp;
+#### May
 
-## Questions or Comments:
+#### June
+
+#### July
+
+#### August
+
+#### September
+
+#### October
+
+#### November
+
+#### December
+
+&nbsp;**2019 AGENDAS**
+
+[January](/uploads/agendas/FRFR Agenda January 9, 2019.pdf){: target="_blank"}&nbsp; &nbsp;&nbsp;[February](/uploads/agendas/JOINT Agenda February 13, 2019.pdf){: target="_blank"}&nbsp; &nbsp; &nbsp; &nbsp;[March](/uploads/agendas/FRFR Agenda March 12, 2019.pdf)&nbsp; &nbsp;[March Work Session](/uploads/agendas/FRFR_Johnstown Work Session Agenda March 11, 2019.pdf)&nbsp;with Town of Johnstown
+
+[April](/uploads/agendas/FRFR Agenda April 10, 2019.pdf)&nbsp; &nbsp;[May](/uploads/agendas/FRFR Agenda May 8, 2019.pdf)&nbsp;&nbsp;[Special Meeting 5.15.19](/uploads/agendas/FRFR Agenda May 15, 2019.pdf)&nbsp;&nbsp;[Special Meeting 5.16.19](/uploads/agendas/FRFR Agenda May 16, 2019.pdf)
+
+[June&nbsp;](/uploads/agendas/FRFR Agenda June 12, 2019.pdf)&nbsp;&nbsp;[July](/uploads/agendas/FRFR Agenda July 10, 2019.pdf)&nbsp; &nbsp;[August](/uploads/Board/FRFR AgendaAugust 14. 2019.pdf)&nbsp;&nbsp;[September](/uploads/Board/FRFR Agenda Sept 11. 2019.pdf)&nbsp;[**CHANGE OF LOCATION**](/uploads/Board/change of location9.11.19.pdf)&nbsp;9/11/19 Meeting
+
+[Special Meeting 9.25.19](/uploads/Board/FRFR Milliken Town Work Session Agenda Sept 25, 2019.pdf)&nbsp;&nbsp;[October](/uploads/Board/FRFR Agenda Oct 9. 2019.pdf)&nbsp;&nbsp;[**SPECIAL MEETING 10.17.19**](/uploads/Board/FRFR Resolution MTG 10.17.19.pdf)
+
+[November](/uploads/Board/FRFR Agenda Nov 13. 2019.pdf)&nbsp; &nbsp;[December](/uploads/Board/FRFR Agenda Dec 11, 2019.pdf)
+
+### Questions or Comments:
 
 <div id="wufoo-z6pl7to0reuswt"><iframe title="Embedded Wufoo Form" id="wufooFormz6pl7to0reuswt" class="wufoo-form-container" height="535" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://frfr.wufoo.com/embed/z6pl7to0reuswt/def/embedKey=z6pl7to0reuswt460381&amp;entsource=&amp;referrer=&amp;header=hide">Fill out my Wufoo form!</iframe></div>
 
