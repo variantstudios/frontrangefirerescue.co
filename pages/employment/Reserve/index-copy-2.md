@@ -8,7 +8,7 @@ permalink: /reserve/
 
 &nbsp;
 
-**Reserve process closes at 1700 hours on January 15, 2020. Completed application packets must be received prior to closing. The packet must contain documentation of the items listed below. Incomplete packets will not be considered.**
+**Reserve process closes at 1700 hours on January 15, 2020. Completed application packets must be received prior to closing. The packet must contain documentation of the items listed below (FireTeam results do not need to be included, but must be submitted through the testing website). Incomplete packets will not be considered.**
 
 Minimum application requirements:
 
