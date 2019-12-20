@@ -6,7 +6,7 @@ permalink: /employment/
 
 Currently hiring for:
 
-[**Reserve Firefighter**](/reserve/)
+**[Reserve Firefighter](/reserve/)&nbsp;: Posting closes at 1700 hours on January 15, 2020**
 
 &nbsp;
 
