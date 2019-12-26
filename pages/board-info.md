@@ -6,18 +6,13 @@ permalink: /board-information//
 
 [**FRFR&nbsp;****TRANSPARENCY REPORT 2020**](/uploads/Board/Notice to Electors.pdf)
 
-[2019 BOARD MEETING SCHEDULE](/uploads/agendas/2019 Meeting Notice revised &#40;1&#41;.pdf){: target="_blank"}
+[2020 BOARD MEETING SCHEDULE](/uploads/Board/2020 Meeting Notice.pdf)
 
 ### **FRFR Board of Directors**
 
 [Darrin Rutt, President](mailto:drutt@frfr.co?subject=Website%20Inquiry)&nbsp; &nbsp; &nbsp; &nbsp;[Blair Howe, Vice President](mailto:bhowe@frfr.co?subject=Website%20Inquiry)
 
 Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freehling
-
-### Meeting Schedules&nbsp;
-
-* [2019 FRFR Meeting Schedule](/uploads/Board/2019 Meeting Notice revised &#40;1&#41;.pdf)
-* [2020 FRFR Meeting Schedule](/uploads/Board/2020 Meeting Notice.pdf)
 
 ### 2020 AGENDA
 
