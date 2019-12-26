@@ -10,4 +10,3 @@ state: CO
 zip: '80543'
 ---
 
-[Special Notice of Public Hearing](/uploads/REVISED NOTICE OF PUBLIC HEARING.pdf){: target="_blank"}
