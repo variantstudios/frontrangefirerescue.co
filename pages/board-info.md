@@ -6,43 +6,53 @@ permalink: /board-information//
 
 [**FRFR&nbsp;****TRANSPARENCY REPORT 2020**](/uploads/Board/Notice to Electors.pdf)
 
-[2020 BOARD MEETING SCHEDULE](/uploads/Board/2020 Meeting Notice.pdf)
+**[2020 BOARD MEETING SCHEDULE](/uploads/Board/2020 Meeting Notice.pdf)**
 
 ### **FRFR Board of Directors**
 
-[Darrin Rutt, President](mailto:drutt@frfr.co?subject=Website%20Inquiry)&nbsp; &nbsp; &nbsp; &nbsp;[Blair Howe, Vice President](mailto:bhowe@frfr.co?subject=Website%20Inquiry)
+##### [Darrin Rutt, President](mailto:drutt@frfr.co?subject=Website%20Inquiry)&nbsp; &nbsp; &nbsp; &nbsp;
 
-Jim Young, Secretary&nbsp; &nbsp; Reid Hobler, Treasurer&nbsp; &nbsp; Greg Freehling
+##### [Blair Howe, Vice President](mailto:bhowe@frfr.co?subject=Website%20Inquiry)
 
-### 2020 AGENDA
+##### Jim Young, Secretary&nbsp; &nbsp;
+
+##### Reid Hobler, Treasurer&nbsp; &nbsp;
+
+##### Greg Freehling
+
+### &nbsp;
+
+### 2020 AGENDAS
 
 Agendas posted 48 hours before meeting
 
-#### January
+###### January
 
-#### February
+###### February
 
-#### March
+###### March
 
-#### April
+###### April
 
-#### May
+###### May
 
-#### June
+###### June
 
-#### July
+###### July
 
-#### August
+###### August
 
-#### September
+###### September
 
-#### October
+###### October
 
-#### November
+###### November
 
-#### December
+###### December
 
-&nbsp;**2019 AGENDAS**
+&nbsp;
+
+**&nbsp;2019 AGENDAS**
 
 [January](/uploads/agendas/FRFR Agenda January 9, 2019.pdf){: target="_blank"}&nbsp; &nbsp;&nbsp;[February](/uploads/agendas/JOINT Agenda February 13, 2019.pdf){: target="_blank"}&nbsp; &nbsp; &nbsp; &nbsp;[March](/uploads/agendas/FRFR Agenda March 12, 2019.pdf)&nbsp; &nbsp;[March Work Session](/uploads/agendas/FRFR_Johnstown Work Session Agenda March 11, 2019.pdf)&nbsp;with Town of Johnstown
 
