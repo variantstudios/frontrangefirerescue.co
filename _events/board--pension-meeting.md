@@ -2,7 +2,7 @@
 title: Board & Pension Meeting
 description: Monthly Board meeting open to the public. Temporarily meeting at St 1.
 start_at: 2020-02-11 00:00:00
-end_at: 2020-02-11 00:00:00
+end_at: 2020-02-11 19:00:00
 image_path: /uploads/dc4372b5c518aa98f5bbcc125f5facfa.png
 address: 100 Telep Avenue
 city: Johnstown
