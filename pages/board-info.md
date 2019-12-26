@@ -10,6 +10,8 @@ permalink: /board-information//
 
 ### **FRFR Board of Directors**
 
+**![](/uploads/board2019-2.jpg){: width="4887" height="2936"}**
+
 ##### [Darrin Rutt, President](mailto:drutt@frfr.co?subject=Website%20Inquiry)&nbsp; &nbsp; &nbsp; &nbsp;
 
 ##### [Blair Howe, Vice President](mailto:bhowe@frfr.co?subject=Website%20Inquiry)
