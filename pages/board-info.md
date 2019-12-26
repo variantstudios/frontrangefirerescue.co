@@ -4,7 +4,7 @@ title: FRFR Board of Directors
 permalink: /board-information//
 ---
 
-[**FRFR&nbsp;****TRANSPARENCY REPORT 201****9**](/uploads/2019 transparency Notice.pdf){: target="_blank"}
+[**FRFR&nbsp;****TRANSPARENCY REPORT 2020**](/uploads/Board/Notice to Electors.pdf)
 
 [2019 BOARD MEETING SCHEDULE](/uploads/agendas/2019 Meeting Notice revised &#40;1&#41;.pdf){: target="_blank"}
 
