@@ -26,7 +26,7 @@ permalink: /board-information//
 
 ### 2020 AGENDAS
 
-Agendas posted 48 hours before meeting
+Agendas posted 24 hours before meeting
 
 ###### [January](/uploads/Board/FRFR Agenda Jan 14 2020post.pdf)
 
