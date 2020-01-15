@@ -16,4 +16,4 @@ Front Range Fire Rescue crews from Station 2 arrived within four minutes of disp
 
 Red Cross is assisting the family. The fire’s smoke damaged the house and displaced the family.
 
-&nbsp;
+![](/uploads/img-8018b-1.jpg){: width="4679" height="3121"}
