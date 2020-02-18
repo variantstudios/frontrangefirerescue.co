@@ -45,6 +45,6 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 **Michael West&nbsp;**Fire Chief [(mwest@frfr.co)](mailto:mwest@frfr.co?subject=From%20the%20Website%3A)
 
-**Bernie Covillo Division Chief &nbsp;**Operations &nbsp;[(bcovillo@frfr.co)](mailto:bcovillo@frfr.co)
+**Bernie Covillo Deputy Chief &nbsp;**Operations &nbsp;[(bcovillo@frfr.co)](mailto:bcovillo@frfr.co)
 
-**Ty Drage Division Chief&nbsp;**Life Safety /Fire Marshal [(tdrage@frfr.co)](javascript:void&#40;location.href='mailto:'+String.fromCharCode&#40;116,100,114,97,103,101,64,102,114,102,114,46,99,111&#41;&#41;)
+**Ty Drage Deputy Chief&nbsp;**Life Safety /Fire Marshal [(tdrage@frfr.co)](javascript:void&#40;location.href='mailto:'+String.fromCharCode&#40;116,100,114,97,103,101,64,102,114,102,114,46,99,111&#41;&#41;)
