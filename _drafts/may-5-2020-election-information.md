@@ -10,5 +10,5 @@ image_path:
 
 Please click on each link for more information.
 
-* Notice of Polling Place&nbsp;
-* Application for permanent mail in voter status
+* [Notice of Polling Place&nbsp;](/uploads/Board/Ntc Polling Place Election B-45.pdf)
+* [Application for permanent mail in voter status](/uploads/Board/Application for Permanent Mail-In Voter status.pdf)
