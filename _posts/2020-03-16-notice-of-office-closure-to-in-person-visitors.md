@@ -13,3 +13,5 @@ The recent COVID-19 outbreak has impacted every community in Colorado. Based on 
 * Our staff will be available during normal business hours via phone (970-587-4464) or email (info@frfr.co)
 
 We will continue to monitor the situation and follow the advice of the Federal and State health officials on best practices to care for our patients and our responders. We ask that you also follow the recommendations of those officials to minimize spread and to keep yourself healthy. Thank you for your patience and understanding.
+
+![](/uploads/671f7629-08a2-45c7-abe6-6eb7cbfc8e89-1.JPG){: width="841" height="841"}
