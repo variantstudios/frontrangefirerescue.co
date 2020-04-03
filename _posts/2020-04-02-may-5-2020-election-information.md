@@ -6,7 +6,7 @@ date: 2020-04-02 09:51:00
 image_path: /uploads/vote.jpg
 ---
 
-> > IMPORTANT-*ELECTIONS in a COVID-19 WORLD*
+> > **IMPORTANT-*ELECTIONS in a COVID-19 WORLD***
 > >
 > >
 > > *We recently notified Front Range Fire Rescue district voters that we are having an election for Board Members on May 5, 2020 between the hours of 7 a.m. and 7 p.m. While this is a polling place election, we are strongly encouraging district voters to apply to have an absentee ballot mailed to them given the current “stay at home” orders.*
@@ -25,3 +25,5 @@ image_path: /uploads/vote.jpg
 
 * [Notice of Polling Place&nbsp;](/uploads/Board/Ntc Polling Place Election B-45.pdf)
 * [Application for permanent mail in voter status](/uploads/Board/Application for Permanent Mail-In Voter status.pdf)
+
+![](/uploads/vote-1.jpg){: width="1147" height="607"}
