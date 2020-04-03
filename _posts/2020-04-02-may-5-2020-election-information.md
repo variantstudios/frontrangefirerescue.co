@@ -3,10 +3,11 @@ layout: post
 title: 'May 5, 2020 Election Information'
 description:
 date: 2020-04-02 09:51:00
-image_path:
+image_path: /uploads/vote.jpg
 ---
 
 > > IMPORTANT-*ELECTIONS in a COVID-19 WORLD*
+> >
 > >
 > > *We recently notified Front Range Fire Rescue district voters that we are having an election for Board Members on May 5, 2020 between the hours of 7 a.m. and 7 p.m. While this is a polling place election, we are strongly encouraging district voters to apply to have an absentee ballot mailed to them given the current “stay at home” orders.*
 > >
