@@ -4,7 +4,9 @@ title: Employment
 permalink: /employment/
 ---
 
-We currently do not have any openings. Please check back at a later time.
+Accepting applications for a Career Firefighter position and eligibility list. Applications must be submitted before May 1st at 4:00pm.
+
+Apply [here](https://form.jotform.com/200545889668169){: target="_blank"}.
 
 &nbsp;
 
