@@ -18,12 +18,13 @@ image_path: /uploads/vote.jpg
 > > *√ Absentee ballot must be received by Election Judge or DEO by 7:00 PM on Election Day May 5, 2020, to be counted. They can be mailed or dropped off. \*\*Be sure to allow enough time if mailing.*
 > >
 > >
-> > *Request your absentee ballot by printing and mailing application. The absentee application can be found here &nbsp;*[Application for Absentee Ballot](/uploads/Election/2020 Application absentee ballot.pdf)&nbsp;
+> > *Request your absentee ballot by printing and mailing application. The absentee application can be found here &nbsp;*[Application for Absentee Ballot](/uploads/Election/2020 Application absentee ballot.pdf){: target="_blank"}&nbsp;
 > >
 > >
 > > *Should you prefer to vote in person, polls will be open from 7:00 am to 7:00 PM on May 5th at Front Range Fire Rescue Station 1, located at 100 Telep Avenue in Johnstown.*
 
-* [Notice of Polling Place&nbsp;](/uploads/Board/Ntc Polling Place Election B-45.pdf)
-* [Application for permanent mail in voter status](/uploads/Board/Application for Permanent Mail-In Voter status.pdf)
+* [Notice of Polling Place&nbsp;](/uploads/Board/Ntc Polling Place Election B-45.pdf){: target="_blank"}
+* [Application for Absentee Ballot](/uploads/Election/2020 Application absentee ballot.pdf){: target="_blank"}[&nbsp;](__notset__)
+* [Application for permanent mail in voter status](/uploads/Board/Application for Permanent Mail-In Voter status.pdf){: target="_blank"}
 
 ![](/uploads/vote-1.jpg){: width="1147" height="607"}
