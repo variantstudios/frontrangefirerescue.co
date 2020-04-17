@@ -6,7 +6,7 @@ permalink: /board-information//
 
 [**FRFR&nbsp;****TRANSPARENCY REPORT 2020**](/uploads/Board/Notice to Electors.pdf){: target="_blank"}
 
-**[2020 BOARD MEETING SCHEDULE](/uploads/Board/2020 Meeting Notice.pdf){: target="_blank"}**
+[**2020 BOARD MEETING SCHEDULE(revised 4.14.2020)**](/uploads/Board/2020 Meeting Notice rev for posting.pdf)
 
 ### **FRFR Board of Directors**
 
