@@ -12,4 +12,6 @@ Front Range Fire Rescue (FRFR) is a fire protection district, organized as a spe
 
 [**2020 MAP of FRONT RANGE FIRE RESCUE DISTRICT**](/uploads/Life-Safety/2020 District Map.pdf)
 
-**![](/uploads/2020-district-map.jpg){: width="2550" height="3300"}**
+[![](/uploads/2020-district-map.jpg){: width="2550" height="3300"}**Professional Standard-The Way 2020**](/uploads/Chief/The Way.Final.pdf)
+
+**&nbsp;[Strategic Plan 2019](/uploads/Chief/Strategic Plan &#40;FINAL 04-10-2019&#41;.pdf)**
