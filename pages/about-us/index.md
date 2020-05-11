@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About Us
-subtitle: 'Serving Johnstown, Milliken, and Weld County for more than 100 years.'
+subtitle: >-
+  Serving Johnstown, Milliken, Larimer and Weld Counties for more than 100
+  years.
 permalink: /about-us/
 image_path: /uploads/img-0117.jpg
 ---
