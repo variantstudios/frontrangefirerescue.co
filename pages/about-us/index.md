@@ -5,7 +5,7 @@ subtitle: >-
   Serving Johnstown, Milliken, Larimer and Weld Counties for more than 100
   years.
 permalink: /about-us/
-image_path: /uploads/img-0117.jpg
+image_path:
 ---
 
 ![](/uploads/img-0117.jpg){: width="3463" height="2597"}
