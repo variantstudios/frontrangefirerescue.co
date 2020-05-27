@@ -4,7 +4,7 @@ title: >-
   Please read the most recent letter regarding our response to the COVID-19
   pandemic
 description:
-date: 2020-04-27 12:00:00
+date: 2020-05-27 12:00:00
 image_path: /uploads/img-7325.jpg
 ---
 
