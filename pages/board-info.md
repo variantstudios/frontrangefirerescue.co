@@ -40,7 +40,7 @@ Agendas posted 24 hours before meeting
 
 ###### [June](/uploads/Board/Agenda 6.9.2020.pdf){: target="_blank"}
 
-###### July
+###### [July](/uploads/Board/Agenda 7.14.2020.pdf)
 
 ###### August
 
