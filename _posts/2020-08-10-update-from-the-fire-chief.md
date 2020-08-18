@@ -19,6 +19,8 @@ date: 2020-08-10 12:00:00
 image_path: /uploads/img-4329b-1.jpg
 ---
 
+August 18, 2020
+
 Good Day\!
 
 I hope your summer is going well and you are healthy and safe. We have been extremely busy at&nbsp;[\#FrontRangeFireRescue](https://www.facebook.com/hashtag/frontrangefirerescue?__eep__=6&amp;source=feed_text&amp;epa=HASHTAG&amp;__xts__%5B0%5D=68.ARArdwbLmlzlglqPXS5YobAwv-JM6KN6JCf8wXNbjjMBlsyWMTwMFzYvQBsFkDHp6NMv4h9NRRmfCc509PEyUxNh8ZAcjD7btg17w05BR-9_HkzdtBnF1GMNI40Sg686Wk6s38nPgU5CSJJKbS9J93r9olf8bez3KPrsjpQ-NdiDD-Y9Ggn09rhCwd9jRNZHALmoyEV3SN9PIMxuMhYQwz-nHUnt16SrJ9lGwD6PdAMXA87ge_-Se07oONcmfYyxQSet3pCWvbGG9n6HSjuhEbIlaUAa7iG0CrEFv4QA1vbNaqma9dmhSC4Orpk0TItPMfIYT2dxiOMN3RC_KnIlewldqgDe&amp;__tn__=%2ANK-R)&nbsp;(FRFR), and I wanted to take a little time to update you on what we’ve been doing.
