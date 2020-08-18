@@ -34,3 +34,7 @@ We ask you to please be vigilant with fires around your own property. We’ve ha
 Thanks and stay safe,
 
 Michael West, Fire Chief
+
+&nbsp;
+
+![](/uploads/publication1.jpg){: width="1288" height="858"}
