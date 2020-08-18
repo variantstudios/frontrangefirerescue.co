@@ -33,4 +33,4 @@ Lastly, The Larimer Board of County Commissioners has approved a fire ban for un
 
 Thanks and stay safe,Michael West, Fire Chief
 
-![](/uploads/publication1-1.jpg){: width="1288" height="858"}
+![](/Publication1.jpg){: width="1288" height="858"}
