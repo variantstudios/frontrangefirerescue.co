@@ -21,7 +21,7 @@ image_path: /uploads/img-4329b-1.jpg
 
 Good Day\!
 
-I hope your summer is going well and you are healthy and safe. We have been extremely busy at&nbsp;[\#FrontRangeFireRescue](https://www.facebook.com/hashtag/frontrangefirerescue?__eep__=6&amp;source=feed_text&amp;epa=HASHTAG&amp;__xts__%5B0%5D=68.ARD3lRZo6E6wWXJcCU67ct6EFcc9t_zg5Y3inyWvgQLsunC5aY0ilulYdeCVGJbN89icYfw6Zd2U1SgUf2tN1JaaMa1WJtEP9jkHm5VXB9qi-i1DlkJU-TO2j3XEs9XL_xDzXoilAvAS1vY0PtSQXSNh2e9QZmLjHCjmeJLwzFxTo9Ujw94MsMUDncU8ycXg9b1ipIOKjy6HWl6BDk4zUzqa0gZdnutHBkCmhRiv-8SsTZfuCIZaU6yCBDqtOEMlISU2sPth0yeegARy3040V1tGb7OuYntTPWyhjP6XM9hASpeRuAON6kWQszo3UTb3-dMyGMw7J6SXg4klpA6x2IKHVWSC&amp;__tn__=%2ANK-R)&nbsp;(FRFR), and I wanted to take a little time to update you on what we’ve been doing.
+I hope your summer is going well and you are healthy and safe. We have been extremely busy at&nbsp;[\#FrontRangeFireRescue](https://www.facebook.com/hashtag/frontrangefirerescue?__eep__=6&amp;source=feed_text&amp;epa=HASHTAG&amp;__xts__%5B0%5D=68.ARArdwbLmlzlglqPXS5YobAwv-JM6KN6JCf8wXNbjjMBlsyWMTwMFzYvQBsFkDHp6NMv4h9NRRmfCc509PEyUxNh8ZAcjD7btg17w05BR-9_HkzdtBnF1GMNI40Sg686Wk6s38nPgU5CSJJKbS9J93r9olf8bez3KPrsjpQ-NdiDD-Y9Ggn09rhCwd9jRNZHALmoyEV3SN9PIMxuMhYQwz-nHUnt16SrJ9lGwD6PdAMXA87ge_-Se07oONcmfYyxQSet3pCWvbGG9n6HSjuhEbIlaUAa7iG0CrEFv4QA1vbNaqma9dmhSC4Orpk0TItPMfIYT2dxiOMN3RC_KnIlewldqgDe&amp;__tn__=%2ANK-R)&nbsp;(FRFR), and I wanted to take a little time to update you on what we’ve been doing.
 
 We continue to be vigilant on the pandemic front. While the public is welcome in our firehouses, we are not holding large gatherings. We also insist on social distancing and the wearing of masks in our public areas. This will likely continue for the foreseeable future. If you are needing a car set check, please call us to schedule one. We also are keeping an eye on our Personal Protective Equipment (PPE) inventory and assuring that we have plenty should we see significant rises in cases this fall.
 
@@ -29,10 +29,8 @@ Yesterday, three new firefighters started their careers at FRFR. We’re excited
 
 As you have seen recently, wildland fires throughout the state and the western US have been taking up a lot of time and resources. FRFR sends units and personnel to these fires for two primary reasons. First, we believe in pay it forward. By helping our neighbors and our state today, we help assure that we will have plenty of resources when we need help in the future in our community. Second, the experience gained on these fires helps our firefighters learn even more and gives them skills that they can utilize in their everyday response. As of today, all of our equipment and all but one firefighter are back in our district. I suspect that with all of the fires burning right now that we will be sending more out soon.
 
-We ask you to please be vigilant with fires around your own property. We’ve had a number of recent fires that started as planned burning of weeds and ditches as well as improperly disposed of smoking material. A bear once told me that only you can prevent fires, and he was right\!
+Lastly, The Larimer Board of County Commissioners has approved a fire ban for unincorporated portions of the county starting at noon today. FRFR protects parts of Larimer County as well as the towns of Johnstown and Milliken and unincorporated Weld County. We ask you to please be vigilant with fires around your own property. We’ve had a number of recent fires that started as planned burning of weeds and ditches as well as improperly disposed of smoking material. A bear once told me that only you can prevent fires, and he was right\!
 
-The Larimer Board of County Commissioners has approved a fire ban for unincorporated portions of the county starting at noon today. \#FrontRangeFireRescue protects parts of Larimer County as well as the towns of Johnstown and Milliken and unincorporated Weld County. With all of the fire danger currently, we ask that you use extreme caution no matter where you live.
-
-Thanks and stay safe, Michael West, Fire Chief
+Thanks and stay safe,Michael West, Fire Chief
 
 ![](/uploads/publication1-1.jpg){: width="1288" height="858"}
