@@ -16,7 +16,7 @@ description: >-
   comments to the Board, or individuals may send any public comments to
   info@frfr.co before the meeting.
 date: 2020-08-18 12:00:00
-image_path:
+image_path: /uploads/publication1-2.jpg
 ---
 
 August 18, 2020
