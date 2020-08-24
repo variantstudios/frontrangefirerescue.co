@@ -15,8 +15,8 @@ description: >-
   will use the Q&A option in the Virtual Meeting. A moderator will deliver the
   comments to the Board, or individuals may send any public comments to
   info@frfr.co before the meeting.
-date: 2020-08-10 12:00:00
-image_path: /uploads/img-4329b-1.jpg
+date: 2020-08-18 12:00:00
+image_path:
 ---
 
 August 18, 2020
