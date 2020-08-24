@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LIFE SAFETY DIVISION
-permalink: /life-safety/
+title: RISK REDUCTION
+permalink: /risk-reduction/
 ---
 
 * Community Risk Reduction
