@@ -16,7 +16,7 @@ The money we raise will help children and adults in our community, and will also
 
 Please make a donation. Thank you\!
 
-&nbsp;[...](https://filltheboot.donordrive.com/participant/FRFR){: target="_blank" rel="noopener"}&nbsp; https://filltheboot.donordrive.com/participant/FRFR
+&nbsp;[…](https://filltheboot.donordrive.com/participant/FRFR){: target="_blank" rel="noopener"}&nbsp; https://filltheboot.donordrive.com/participant/FRFR
 
 ![](/uploads/file-005-2.jpeg){: width="3708" height="2755"}
 
