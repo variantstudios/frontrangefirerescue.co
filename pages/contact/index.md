@@ -29,7 +29,7 @@ try { z6pl7to0reuswt = new WufooForm();z6pl7to0reuswt.initialize(options);z6pl7t
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
 
-## [2019 Transparency Notice](/uploads/2019 transparency Notice.pdf)
+## [2020 Transparency Notice](/uploads/Board/Tranparency Notice 2020.pdf)
 
 ## Our Stations:
 
@@ -44,7 +44,5 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 ## FRFR Chiefs:
 
 **Michael West&nbsp;**Fire Chief [(mwest@frfr.co)](mailto:mwest@frfr.co?subject=From%20the%20Website%3A)
-
-**Bernie Covillo Deputy Chief &nbsp;**Operations &nbsp;[(bcovillo@frfr.co)](mailto:bcovillo@frfr.co)
 
 **Ty Drage Deputy Chief&nbsp;**Life Safety /Fire Marshal [(tdrage@frfr.co)](javascript:void&#40;location.href='mailto:'+String.fromCharCode&#40;116,100,114,97,103,101,64,102,114,102,114,46,99,111&#41;&#41;)
