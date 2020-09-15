@@ -33,5 +33,8 @@ images:
   - title:
     small_image_path: /assets/images/gallery/full/photo24.jpg
     large_image_path: /assets/images/gallery/full/photo24.jpg
+  - title:
+    small_image_path: /uploads/attachment-1.jpeg
+    large_image_path: /uploads/attachment-1.jpeg
 ---
 
