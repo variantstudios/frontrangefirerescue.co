@@ -48,7 +48,7 @@ Agendas posted 24 hours before meeting
 
 ###### [October](/uploads/Board/FRFR Agenda October 13,2020.pdf)
 
-###### November
+###### [November](/uploads/Board/FRFR Agenda November 11,2020.pdf)
 
 ###### December
 
