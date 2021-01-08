@@ -6,7 +6,7 @@ permalink: /board-information//
 
 [**FRFR&nbsp;****TRANSPARENCY NOTICE 2021**](/uploads/Board/Tranparency Report2021.pdf)
 
-[**2020 BOARD MEETING SCHEDULE(revised 8.10.2020)**](/uploads/Board/2020 Meeting Notice rev8.20.pdf)
+[**2021 BOARD MEETING SCHEDULE&nbsp;**](/uploads/Board/2021 Meeting Notice .pdf)
 
 ### **FRFR Board of Directors**
 
