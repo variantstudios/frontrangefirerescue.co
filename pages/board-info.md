@@ -24,33 +24,23 @@ permalink: /board-information//
 
 ### &nbsp;
 
-### 2020 AGENDAS
+##### 2021 AGENDAS
 
 Agendas posted 24 hours before meeting
 
-###### [January](/uploads/Board/FRFR Agenda Jan 14 2020.pdf){: target="_blank"}
+[JANUARY](/uploads/Board/2021/FRFR Agenda Jan 12 2021.pdf)
 
-###### [February](/uploads/Board/2.11.20.pdf){: target="_blank"}
+FEBRUARY
 
-###### [March](/uploads/Board/Agenda 3.10.2020.pdf)
+MARCH
 
-###### [April](/uploads/Board/1Agenda 4.14.2020.pdf)
+##### &nbsp;
 
-###### [May](/uploads/Board/May agenda 2020.pdf)
+##### 2020 AGENDAS
 
-###### [June](/uploads/Board/Agenda 6.9.2020.pdf){: target="_blank"}
+###### [Januar](/uploads/Board/FRFR Agenda Jan 14 2020.pdf){: target="_blank"}y&nbsp;[February](/uploads/Board/2.11.20.pdf){: target="_blank"}&nbsp;[March](/uploads/Board/Agenda 3.10.2020.pdf)&nbsp;[April](/uploads/Board/1Agenda 4.14.2020.pdf)&nbsp;[May](/uploads/Board/May agenda 2020.pdf)&nbsp;[June](/uploads/Board/Agenda 6.9.2020.pdf){: target="_blank"}&nbsp;[July](/uploads/Board/Agenda 7.14.2020.pdf)
 
-###### [July](/uploads/Board/Agenda 7.14.2020.pdf)
-
-###### [August](/uploads/Board/August 11,2020.pdf)
-
-###### [September](/uploads/Board/FRFR Agenda September 8, 2020.pdf)
-
-###### [October](/uploads/Board/FRFR Agenda October 13,2020.pdf)
-
-###### [November](/uploads/Board/FRFR Agenda November 11,2020.pdf)
-
-###### [December](/uploads/Board/FRFR Agenda December 8,2020.pdf)
+###### &nbsp;[August](/uploads/Board/August 11,2020.pdf)&nbsp;[September](/uploads/Board/FRFR Agenda September 8, 2020.pdf)&nbsp;[October](/uploads/Board/FRFR Agenda October 13,2020.pdf)&nbsp;[November](/uploads/Board/FRFR Agenda November 11,2020.pdf)&nbsp;[December](/uploads/Board/FRFR Agenda December 8,2020.pdf)
 
 &nbsp;
 
@@ -58,13 +48,7 @@ Agendas posted 24 hours before meeting
 
 [January](/uploads/agendas/FRFR Agenda January 9, 2019.pdf){: target="_blank"}&nbsp; &nbsp;&nbsp;[February](/uploads/agendas/JOINT Agenda February 13, 2019.pdf){: target="_blank"}&nbsp; &nbsp; &nbsp; &nbsp;[March](/uploads/agendas/FRFR Agenda March 12, 2019.pdf){: target="_blank"}&nbsp; &nbsp;[March Work Session](/uploads/agendas/FRFR_Johnstown Work Session Agenda March 11, 2019.pdf){: target="_blank"}&nbsp;with Town of Johnstown
 
-[April](/uploads/agendas/FRFR Agenda April 10, 2019.pdf){: target="_blank"}&nbsp; &nbsp;[May](/uploads/agendas/FRFR Agenda May 8, 2019.pdf){: target="_blank"}&nbsp;&nbsp;[Special Meeting 5.15.19](/uploads/agendas/FRFR Agenda May 15, 2019.pdf){: target="_blank"}&nbsp;&nbsp;[Special Meeting 5.16.19](/uploads/agendas/FRFR Agenda May 16, 2019.pdf){: target="_blank"}
-
-[June&nbsp;](/uploads/agendas/FRFR Agenda June 12, 2019.pdf){: target="_blank"}&nbsp;&nbsp;[July](/uploads/agendas/FRFR Agenda July 10, 2019.pdf){: target="_blank"}&nbsp; &nbsp;[August](/uploads/Board/FRFR AgendaAugust 14. 2019.pdf){: target="_blank"}&nbsp;&nbsp;[September](/uploads/Board/FRFR Agenda Sept 11. 2019.pdf){: target="_blank"}&nbsp;[**CHANGE OF LOCATION**](/uploads/Board/change of location9.11.19.pdf){: target="_blank"}&nbsp;9/11/19 Meeting
-
-[Special Meeting 9.25.19](/uploads/Board/FRFR Milliken Town Work Session Agenda Sept 25, 2019.pdf){: target="_blank"}&nbsp;&nbsp;[October](/uploads/Board/FRFR Agenda Oct 9. 2019.pdf){: target="_blank"}&nbsp;&nbsp;[**SPECIAL MEETING 10.17.19**](/uploads/Board/FRFR Resolution MTG 10.17.19.pdf){: target="_blank"}
-
-[November](/uploads/Board/FRFR Agenda Nov 13. 2019.pdf){: target="_blank"}&nbsp; &nbsp;[December](/uploads/Board/FRFR Agenda Dec 11, 2019.pdf){: target="_blank"}
+[April](/uploads/agendas/FRFR Agenda April 10, 2019.pdf){: target="_blank"}&nbsp; &nbsp;[May](/uploads/agendas/FRFR Agenda May 8, 2019.pdf){: target="_blank"}&nbsp;&nbsp;[Special Meeting 5.15.19](/uploads/agendas/FRFR Agenda May 15, 2019.pdf){: target="_blank"}&nbsp;&nbsp;[Special Meeting 5.16.19](/uploads/agendas/FRFR Agenda May 16, 2019.pdf){: target="_blank"}&nbsp;[June&nbsp;](/uploads/agendas/FRFR Agenda June 12, 2019.pdf){: target="_blank"}&nbsp;&nbsp;[July](/uploads/agendas/FRFR Agenda July 10, 2019.pdf){: target="_blank"}&nbsp; &nbsp;[August](/uploads/Board/FRFR AgendaAugust 14. 2019.pdf){: target="_blank"}&nbsp;&nbsp;[September](/uploads/Board/FRFR Agenda Sept 11. 2019.pdf){: target="_blank"}&nbsp;[**CHANGE OF LOCATION**](/uploads/Board/change of location9.11.19.pdf){: target="_blank"}&nbsp;9/11/19 Meeting&nbsp;[Special Meeting 9.25.19](/uploads/Board/FRFR Milliken Town Work Session Agenda Sept 25, 2019.pdf){: target="_blank"}&nbsp;&nbsp;[October](/uploads/Board/FRFR Agenda Oct 9. 2019.pdf){: target="_blank"}&nbsp;&nbsp;**[SPECIAL MEETING 10.17.19](/uploads/Board/FRFR Resolution MTG 10.17.19.pdf){: target="_blank"}&nbsp;**[November](/uploads/Board/FRFR Agenda Nov 13. 2019.pdf){: target="_blank"}&nbsp; &nbsp;[December](/uploads/Board/FRFR Agenda Dec 11, 2019.pdf){: target="_blank"}
 
 ### Questions or Comments:
 
