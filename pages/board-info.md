@@ -40,6 +40,8 @@ Agendas posted 24 hours before meeting
 
 [JUNE](/uploads/Board/2021/FRFRBOARDAgenda.pdf)
 
+[JULY](/uploads/Board/2021/JulyAgenda.pdf)
+
 ##### &nbsp;
 
 ##### 2020 AGENDAS
